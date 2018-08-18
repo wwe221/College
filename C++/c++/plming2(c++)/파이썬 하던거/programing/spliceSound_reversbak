@@ -1,0 +1,17 @@
+g=makeSound(getMediaPath('guzdial.wav'))
+def lab7_1():
+  g=makeSound(getMediaPath('guzdial.wav'))
+  p=makeSound(getMediaPath('guzdial.wav'))
+  my=reSound(g)
+  #my=mirSound(g)
+  play(my)
+
+
+def reSound(g):
+  len=getLength(g)
+  target=makeEmptySound(len)
+  for i in range(0,len):
+    v=getSampleValueAt(g,len-1)
+    setSampleValueAt(target,i,v)
+    len=len-1
+  return target

@@ -1,0 +1,13 @@
+
+public class studentdriver {
+	public static void main(String[] args){
+		student std = new student("Jason Snyder", "124 Streetrd.","Computer Science");
+		System.out.println(std.toString()+"\n\n");
+		std.setname("Dan Stern");
+		std.setaddr("54 Queens Blvd");
+		std.setmajor("Undeclard");
+		std.setSID();
+		std.setgpa();
+		System.out.println(std.toString()+"\n\n");
+	}
+}

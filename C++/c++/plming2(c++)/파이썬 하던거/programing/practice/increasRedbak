@@ -1,0 +1,11 @@
+def increasRed():
+  pn=getMediaPath('beach.jpg')
+  pic=makePicture(pn)
+  for p in getPixels(pic):
+    c=getColor(p)
+    if distance(c,cBrown) <50.0:
+      pRed2=getRed(p)*2
+      pGreen=getGreen(p)
+      pBlue=getBlue(p)
+      setColor(p,makeColor(pRed2,pGreen,pBlue))
+  repaint(pic)

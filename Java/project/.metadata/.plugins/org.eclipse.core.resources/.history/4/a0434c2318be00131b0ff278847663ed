@@ -1,0 +1,10 @@
+
+public class SongDriver {
+
+		public static void main(String[] args){
+			
+			Song(Title,Artist,Album,Composer,1990,3);
+			
+			
+		}
+}

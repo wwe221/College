@@ -1,0 +1,21 @@
+﻿빌드 시작: 2014-11-17 오후 1:46:25
+     1>2 노드의 "C:\Users\P400\Desktop\201311229_이경헌\binp\binp\binp.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\binp.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\P400\Desktop\201311229_이경헌\binp\Debug\binp.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\binp.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\P400\Desktop\201311229_이경헌\binp\Debug\binp.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\P400\Desktop\201311229_이경헌\binp\Debug\binp.lib" /MACHINE:X86 Debug\main.obj
+         LINK : C:\Users\P400\Desktop\201311229_이경헌\binp\Debug\binp.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+         binp.vcxproj -> C:\Users\P400\Desktop\201311229_이경헌\binp\Debug\binp.exe
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\P400\Desktop\201311229_이경헌\binp\Debug\binp.exe;#1" /manifest Debug\binp.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         "Debug\binp.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\binp.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\P400\Desktop\201311229_이경헌\binp\binp\binp.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.90

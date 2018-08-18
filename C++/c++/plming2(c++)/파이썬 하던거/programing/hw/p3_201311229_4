@@ -1,0 +1,57 @@
+def lab4_7():
+  barbf=getMediaPath("barbara.jpg")
+  barb=makePicture(barbf)
+  canvasf=getMediaPath("7inX95in.jpg")
+  canvas=makePicture(canvasf)
+  #Now,smaller picture
+  sourceX=45
+  for targetX in range(100,100+((200-45)/2)):
+    sourceY=25
+    for targetY in range(100,100+((200-45)/2)):
+      color=getColor(getPixel(barb,sourceX,sourceY))
+      setColor(getPixel(canvas,targetX,targetY),color)
+      sourceY=sourceY+2
+    sourceX=sourceX+2
+  show(barb)
+  show(canvas)
+  return canvas
+#4.8 change left right
+def a():
+  pic2=makePicture(getMediaPath("7inX95in.jpg"))
+  pic1=makePicture(getMediaPath("barbara.jpg"))
+  for x in range(0,getWidth(pic1)):
+    for y in range(0,getHeight(pic1)):
+      a=getPixel(pic1,x,y)
+      b=getPixel(pic2,getWidth(pic1)-x,y)
+      setColor(b,getColor(a))
+  return pic2
+#go a()
+def lab4_8():
+  e=a()
+  repaint(e)
+def uu():
+  pic2=makePicture(getMediaPath("7inX95in.jpg"))
+  pic1=makePicture(getMediaPath("barbara.jpg"))
+  for y in range(25,220):
+    for x in range(25,1+y):
+      q=getPixel(pic1,x,y)
+      w=getPixel(pic2,x,y)
+      setColor(w,getColor(q))
+  return pic2
+def lab4_14():
+  bj=uu()
+  repaint(bj)
+  
+def z():
+  flo1=makePicture(getMediaPath("flower1.jpg"))
+  canvasf=getMediaPath("7inX95in.jpg")
+  canvas=makePicture(canvasf)
+  sourceX=10
+  for targetX in range(20,20+((145-45)/2)):
+    sourceY=20
+    for targetY in range(20,20+((145-45)/2)):
+      color=getColor(getPixel(flo1,sourceX,sourceY))
+      setColor(getPixel(canvas,targetX,targetY),color)
+      sourceY=sourceY+2
+    sourceX=sourceX+2
+

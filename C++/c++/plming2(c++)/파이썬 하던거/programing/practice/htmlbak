@@ -1,0 +1,18 @@
+def genHtml(name,interest):
+  import os
+  fn=os.getcwd()+'/myHomePage2.html'
+  file=open(fn,'wt')
+  htmlStr=''
+  htmlStr+='<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transition//EN" "http://wwww.w3.org/TR/html4/loose.dtd"><html><head><title>The Simplest Possible Web Page</title></head><body><h1>3rd page</h1><p>This is a paragraph in the simplest <br \>possible Web page.</p></body></html>'
+  htmlStr+="""<html>
+<head>
+<title>3rd page</title>
+</head>
+<body>"""
+  htmlStr+="<h1>"+name+"</h1>"
+  htmlStr+='<p>This is a paragraph in the simplest possible Web page.</p>'
+  htmlStr+='<p>i am interested in'+interest+'</p></body></html>'
+  
+  print htmlStr
+  file.write(htmlStr)
+  file.close()

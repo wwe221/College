@@ -1,0 +1,18 @@
+def echo():
+  c4=makeSound(getMediaPath('preamble.wav'))
+  #e4=makeSound(getMediaPath('bassoon-e4.wav'))
+  target=makeEmptySound(getLength(c4))
+  delay=15000
+  delay2=25000
+  for i in range(2*delay, getLength(c4)):
+    echo=0.6*getSampleValueAt(c4,i)
+    #echo2=1.2*getSampleValueAt(c4,i)
+    v1=getSampleValueAt(c4,i-delay)
+    v2=getSampleValueAt(c4,i-delay2)
+    combo=v1+echo
+    combo2=combo+v2
+    setSampleValueAt(target,i-delay,combo)
+    
+    
+  explore(target)
+  play(target)

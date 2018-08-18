@@ -1,0 +1,87 @@
+<file_created time="Wed Mar 27 16:23:07 KST 2013">
+<command_run time="Wed Mar 27 16:25:19 KST 2013">temple=makePicture(getMediaPath('temple.jpg'))></command_run>
+<command_run time="Wed Mar 27 16:25:26 KST 2013">explore(temple)></command_run>
+<command_run time="Wed Mar 27 16:26:45 KST 2013">print getMediaPath></command_run>
+<command_run time="Wed Mar 27 16:26:47 KST 2013">print getMediaPath()></command_run>
+<command_run time="Wed Mar 27 16:27:14 KST 2013">FaceBook></command_run>
+<command_run time="Wed Mar 27 16:27:43 KST 2013">ctl C></command_run>
+<command_run time="Wed Mar 27 16:27:54 KST 2013">print getMediaPath()></command_run>
+<command_run time="Wed Mar 27 16:28:31 KST 2013">shakes></command_run>
+<command_run time="Wed Mar 27 16:28:43 KST 2013">></command_run>
+<command_run time="Wed Mar 27 16:30:05 KST 2013">p1=getPixel(temple,1,1)></command_run>
+<command_run time="Wed Mar 27 16:30:08 KST 2013">print p1></command_run>
+<command_run time="Wed Mar 27 16:30:11 KST 2013">show p1></command_run>
+<command_run time="Wed Mar 27 16:30:15 KST 2013">show(p1)></command_run>
+<command_run time="Wed Mar 27 16:30:20 KST 2013">get the fuck up the p1></command_run>
+<command_run time="Wed Mar 27 16:30:49 KST 2013">temple=makePicture(getMediaPath('temple.jpg'))></command_run>
+<command_run time="Wed Mar 27 16:33:39 KST 2013">276-14+276></command_run>
+<command_run time="Wed Mar 27 16:34:57 KST 2013">loop></command_run>
+<command_run time="Wed Mar 27 16:35:19 KST 2013">p1=getPixel(temple,14,28)></command_run>
+<command_run time="Wed Mar 27 16:35:30 KST 2013">p2=getPixel(temple,276,28)></command_run>
+<command_run time="Wed Mar 27 16:35:42 KST 2013">p3=getPixel(temple,537,28)></command_run>
+<command_run time="Wed Mar 27 16:35:56 KST 2013">c1=getColor(p1)></command_run>
+<command_run time="Wed Mar 27 16:36:36 KST 2013">mPt=276></command_run>
+<command_run time="Wed Mar 27 16:37:11 KST 2013">pO=mPt+mPt-14-1></command_run>
+<command_run time="Wed Mar 27 16:37:39 KST 2013">pLo=mPt+mPt-14-1></command_run>
+<command_run time="Wed Mar 27 16:37:52 KST 2013">pO=getPixel(temp,mPt,28)></command_run>
+<command_run time="Wed Mar 27 16:37:56 KST 2013">pO=getPixel(temple,mPt,28)></command_run>
+<command_run time="Wed Mar 27 16:38:22 KST 2013">setColor(pO,c1)></command_run>
+<menu_button time="Wed Mar 27 16:42:31 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Mar 27 16:42:41 KST 2013">E:\makePerfect</file_saved>
+</file_created>
+<menu_button time="Wed Mar 27 16:42:46 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:43:09 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Mar 27 16:43:10 KST 2013">E:\makePerfect</file_saved>
+</file_created>
+<menu_button time="Wed Mar 27 16:43:40 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Mar 27 16:43:41 KST 2013">E:\makePerfect</file_saved>
+</file_created>
+<menu_button time="Wed Mar 27 16:43:58 KST 2013">Save Program</menu_button>
+<file_saved time="Wed Mar 27 16:43:58 KST 2013">E:\makePerfect</file_saved>
+</file_created>
+<menu_button time="Wed Mar 27 16:43:59 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:44:00 KST 2013">Save Program As...</menu_button>
+<file_saved time="Wed Mar 27 16:44:11 KST 2013">E:\repairTemple</file_saved>
+</file_created>
+<menu_button time="Wed Mar 27 16:45:17 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Mar 27 16:45:18 KST 2013">E:\repairTemple</file_saved>
+</file_created>
+<menu_button time="Wed Mar 27 16:46:06 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:07 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:07 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:07 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:12 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:13 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:13 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:13 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:13 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:13 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:14 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:14 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:14 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:14 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:14 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:14 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:14 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:15 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:15 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:26 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:26 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:26 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:26 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:46:29 KST 2013">Save Program As...</menu_button>
+<file_saved time="Wed Mar 27 16:46:36 KST 2013">E:\repairTemple.py</file_saved>
+<file_opened time="Wed Mar 27 16:47:25 KST 2013">E:\repairTemple.py</file_opened>
+<menu_button time="Wed Mar 27 16:47:26 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 16:47:51 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Mar 27 16:47:54 KST 2013">E:\repairTemple.py</file_saved>
+<file_opened time="Wed Mar 27 17:49:37 KST 2013">E:\repairTemple.py</file_opened>
+<menu_button time="Wed Mar 27 17:49:40 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Mar 27 17:49:41 KST 2013">E:\repairTemple.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 27 17:49:43 KST 2013">repairTemple()></command_run>
+<command_run time="Wed Mar 27 17:50:11 KST 2013">pic=repairTemple()></command_run>
+<command_run time="Wed Mar 27 17:50:17 KST 2013">repaint(pic)></command_run>
+<menu_button time="Wed Mar 27 17:50:23 KST 2013">Save Program</menu_button>
+<file_saved time="Wed Mar 27 17:50:23 KST 2013">E:\repairTemple.py</file_saved>
+</file_created>

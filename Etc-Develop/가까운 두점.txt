@@ -1,0 +1,35 @@
+#include <iostream>
+#include <math.h>
+using namespace std;
+
+struct point{
+    public:
+        int x,y;
+};
+int main()
+{
+    int n;
+    double d,result=0.0;
+    cin>>n;
+    
+    if(n<2||n>100000)
+        return 0;
+        
+    point p[n];
+    for(int i=0;i<n;i++){
+        cin>>p[i].x;
+        cin>>p[i].y;
+    }
+    result=sqrt((double)((p[0].x-p[1].x)*(p[0].x-p[1].x)+(p[0].y-p[1].y)*(p[0].y-p[1].y)));
+    
+    for(int i=1;i<n-1;i++){
+        for(int j=i+1;j<n;j++){
+            d=sqrt((double)((p[i].x-p[j].x)*(p[i].x-p[j].x)+(p[i].y-p[j].y)*(p[i].y-p[j].y)));
+    //        cout<<"result = "<<result<<"  d = "<<d<<endl;
+            if(d<result)
+                result = d;
+        }
+    }
+    cout<<result;
+    return 0;
+}

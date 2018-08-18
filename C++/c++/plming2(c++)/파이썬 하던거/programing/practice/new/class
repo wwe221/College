@@ -1,0 +1,42 @@
+class SmartTurtle(Turtle):
+  def drawSquare(self):
+    for i in range(0,4):
+      self.turnRight()
+      self.forward()
+  def drawRect(self,width,height):
+    self.turnRight(width)
+    self.forward(height)
+     
+      
+class slide:
+  def __init__(self,pictureFile,soundFile):
+    self.picture=makePicture(pictureFile)
+    self.sound=makeSound(soundFile)
+  def show(self):
+    show(self.picture)
+    blockingPlay(self.sound)
+class box:
+  def __init__(self,color,sz):
+    self.color=color
+    self.size=sz
+    self.pos=(10,10)
+  def draw(self,canvas):
+    addRectFilled(canvas,self.pos[0],self.pos[1],self.size,self.size,self.color)
+    repaint(canvas)
+
+class animal:
+  def __init__(self,name):
+    self.name=name
+  def talk(self):
+    print 'no talk'
+class Cat(animal):
+  def talk(self):
+    print "miaong"
+  def getName(self):
+    print self.name
+class Dog(animal):
+  def talk(self):
+    print "Bbarkk"
+  def getName(self):
+    print self.name
+    

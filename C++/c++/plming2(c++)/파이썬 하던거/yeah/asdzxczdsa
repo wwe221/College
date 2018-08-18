@@ -1,0 +1,33 @@
+def soundplus():
+ a=makeSound(getMediaPath(""))
+ s=makeSound(getMediaPath(""))
+ d=makeSound(getMediaPath(""))
+ al=getLength(a)
+ sl=getLength(s)
+ dl=getLength(d)
+ ps=makeEmptySound(al+sl+dl)
+
+ index=0
+ for i in range(0,al):
+  x=getSampleValueAt(a,i)
+  setSampleValueAt(ps,i,x)
+  index=index+1
+ for i in range(0,sl):
+  x=getSampleValueAt(s,i)
+  setSampleValueAt(ps,index,x)
+ for i in range(0,dl):
+  x=getSampleValueAt(d,i)
+  setSampleValueAt(ps,index,x)
+  
+def mirSound(a):
+  len=getLength(a)
+  mirrorPt=len/2
+  for i in range(0,mirrorPt):
+    sLeft=getSampleObjectAt(a,i)
+    vLeft=getSampleValue(sLeft)
+    sRight=getSampleObjectAt(a,len-i-1)
+    setSampleValue(sRight,vLeft)
+  return a
+   
+  
+  

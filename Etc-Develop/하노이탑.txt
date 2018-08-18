@@ -1,0 +1,72 @@
+#include <iostream>
+using namespace std;
+
+int A[20];
+int n;
+void move(int m);
+void act(int x);
+void rv(int &x);
+void ri(int &x);
+int main(){
+    for(int t=0;t<20;t++){
+        A[t]=1;
+    }
+    int result=1;
+    cin>>n;
+    if(n<1||20<n)
+        return 0;
+    
+    for(int i=0;i<n;i++){
+        result*=2;
+    }
+    cout<<result-1<<endl;
+    move(n);
+    return 0;
+    
+}
+void rv(int &x){
+    if(x==1){
+        cout<<"1 3"<<endl;
+        x=3;
+    }
+    else if(x==2){
+        cout<<"2 1"<<endl;
+        x=1;
+    }
+    else{
+        cout<<"3 2"<<endl;
+        x=2;
+    }
+    return;
+}
+void ri(int &x){
+    if(x==1){
+        cout<<"1 2"<<endl;
+        x=2;
+    }
+    else if(x==2){
+        cout<<"2 3"<<endl;
+        x=3;
+    }
+    else{
+        cout<<"3 1"<<endl;
+        x=1;
+    }
+    return;
+}
+void act(int c){
+    if((c%2)&(n%2))
+        rv(A[c-1]);
+    else
+        ri(A[c-1]);
+}
+void move(int m){
+    if(m==1){
+        act(m);
+        return;
+    }
+    move(m-1);
+    act(m);
+    move(m-1);
+    return;
+}

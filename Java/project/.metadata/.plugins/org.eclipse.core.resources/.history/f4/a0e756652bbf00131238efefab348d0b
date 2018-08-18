@@ -1,0 +1,52 @@
+import java.util.Random;
+public class student {
+	private String name,addr,major;
+	private int SID;
+	private double gpa;
+	Random gen = new Random();
+	SID=gen.nextInt(9999999);
+
+	public student(String n, String add,String maj)
+		{name=n; addr=add; major=maj;
+		gpa=gen.nextDouble();
+		}
+		
+	public String getname(){
+		return name;
+	}
+	public String getaddr(){
+		return addr;
+	}
+	public String getmajor(){
+		return major;
+	}
+	public int getSID(){
+		return SID;
+	}
+	public double getgpa()
+{
+		return gpa;}
+	
+	
+	public String setname(String n){
+		name=n;
+		return name;
+	}
+	public String setaddr(String add){
+		addr=add;
+		return addr;
+	}
+	public String setmajor(String maj){
+		major=maj;
+		return major;
+	}
+	public int setSID(int id){
+		SID=id;
+		return SID;
+	}
+	public double setgpa(double gp)
+{		
+		gpa=gp;
+		return gpa;}
+	
+}

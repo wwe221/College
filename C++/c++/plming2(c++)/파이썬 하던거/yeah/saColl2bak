@@ -1,0 +1,153 @@
+a1 = makeSound(getMediaPath("tghwht01.wav"))
+a2 = makeSound(getMediaPath("tghwht01.wav"))
+a3 = makeSound(getMediaPath("tghwht01.wav"))
+a4 = makeSound(getMediaPath("tghwht01.wav"))
+s1 = makeSound(getMediaPath("tghwht02.wav"))
+s2 = makeSound(getMediaPath("tghwht02.wav"))
+s3 = makeSound(getMediaPath("tghwht02.wav"))
+s4 = makeSound(getMediaPath("tghwht02.wav"))
+d1 = makeSound(getMediaPath("tghwht03.wav"))
+d2 = makeSound(getMediaPath("tghwht03.wav"))
+d3 = makeSound(getMediaPath("tghwht03.wav"))
+d4 = makeSound(getMediaPath("tghwht03.wav"))
+f1 = makeSound(getMediaPath("tghyes01.wav"))
+f2 = makeSound(getMediaPath("tghyes01.wav"))
+f3 = makeSound(getMediaPath("tghyes01.wav"))
+f4 = makeSound(getMediaPath("tghyes01.wav"))
+def mirSound(sound):
+  len=getLength(sound)
+  mirrorPt=len/2
+  for i in range(0,mirrorPt):
+    sLeft=getSampleObjectAt(sound,i)
+    vLeft=getSampleValue(sLeft)
+    sRight=getSampleObjectAt(sound,len-i-1)
+    setSampleValue(sRight,vLeft)
+  return sound
+  
+def faster(sound):
+  len=getLength(sound)/2+1
+  targetIndex=0
+  for soundIndex in range(0,getLength(sound),2):
+    soundValue=getSampleValueAt(sound,soundIndex)
+    setSampleValueAt(sound,targetIndex,soundValue)
+    targetIndex=targetIndex+1
+  return sound
+  
+def increaseVolume(d):
+  for sample in getSamples(d):
+    v=getSampleValue(sample)
+    setSampleValue(sample,v*5)
+  return d
+  
+def echo(f):
+  delay=5000
+  for i in range(2*delay+1, getLength(f)):
+    echo1 = 0.6*getSampleValueAt(f, i-delay)
+    echo2 = 0.6*getSampleValueAt(f, i-delay*2)
+    combo = getSampleValueAt(f, i) + echo1+echo2
+    setSampleValueAt(f, i, combo)
+
+def soundCollage():
+ a1l=getLength(a1)
+ a2l=getLength(a2)
+ a3l=getLength(a3)
+ a4l=getLength(a4)
+ s1l=getLength(s1)
+ s2l=getLength(s2)
+ s3l=getLength(s3)
+ s4l=getLength(s4)
+ d1l=getLength(d1)
+ d2l=getLength(d2)
+ d3l=getLength(d3)
+ d4l=getLength(d4)
+ f1l=getLength(f1)
+ f2l=getLength(f2)
+ f3l=getLength(f3)
+ f4l=getLength(f4)
+ sound=makeEmptySound(a1l+a2l+a3l+a4l+s1l+s2l+s3l+s4l+d1l+d2l+d3l+d4l+f1l+f2l+f3l+f4l)
+ index=0
+ mirSound(a1)
+ for i in range(0,a1l):
+  v=getSampleValueAt(a1,i)
+  setSampleValueAt(sound,i,v)
+  index=index+1
+ faster(a2)
+ for i in range(0,a2l):
+  v=getSampleValueAt(a2,i)
+  setSampleValueAt(sound,index,v)
+  index=index+1
+ increaseVolume(a3)
+ for i in range(0,a3l):
+  v=getSampleValueAt(a3,i)
+  setSampleValueAt(sound,index,v)
+  index=index+1
+ echo(a4)
+ for i in range(0,a4l):
+  v=getSampleValueAt(a4,i)
+  setSampleValueAt(sound,index,v)
+  index=index+1
+  
+ mirSound(s1)
+ for i in range(0,s1l):
+  v=getSampleValueAt(s1,i)
+  setSampleValueAt(sound,i,v)
+  index=index+1
+ faster(s2)
+ for i in range(0,s2l):
+  v=getSampleValueAt(s2,i)
+  setSampleValueAt(sound,index,v)
+  index=index+1
+ increaseVolume(s3)
+ for i in range(0,s3l):
+  v=getSampleValueAt(s3,i)
+  setSampleValueAt(sound,index,v)
+  index=index+1
+ echo(s4)
+ for i in range(0,s4l):
+  v=getSampleValueAt(s4,i)
+  setSampleValueAt(sound,index,v)
+  index=index+1
+ 
+ mirSound(d1)
+ for i in range(0,d1l):
+  v=getSampleValueAt(d1,i)
+  setSampleValueAt(sound,i,v)
+  index=index+1
+ faster(d2)
+ for i in range(0,d2l):
+  v=getSampleValueAt(d2,i)
+  setSampleValueAt(sound,index,v)
+  index=index+1
+ increaseVolume(d3)
+ for i in range(0,d3l):
+  v=getSampleValueAt(d3,i)
+  setSampleValueAt(sound,index,v)
+  index=index+1
+ echo(d4)
+ for i in range(0,d4l):
+  v=getSampleValueAt(d4,i)
+  setSampleValueAt(sound,index,v)
+  index=index+1
+ 
+ mirSound(f1)
+ for i in range(0,f1l):
+  v=getSampleValueAt(f1,i)
+  setSampleValueAt(sound,i,v)
+  index=index+1
+ faster(f2)
+ for i in range(0,f2l):
+  v=getSampleValueAt(f2,i)
+  setSampleValueAt(sound,index,v)
+  index=index+1
+ increaseVolume(f3)
+ for i in range(0,f3l):
+  v=getSampleValueAt(f3,i)
+  setSampleValueAt(sound,index,v)
+  index=index+1
+ echo(f4)
+ for i in range(0,f4l):
+  v=getSampleValueAt(f4,i)
+  setSampleValueAt(sound,index,v)
+  index=index+1
+ writeSoundTo(sound,"soundcoll.wav")
+ explore (sound)

@@ -1,0 +1,33 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main(int argc, char*argv[])
+{    
+    
+    int n,nn;
+    int a;
+    int sum;
+    char b[16];
+    for(n=0;n<argc;n++)
+        sum=sum+atoi(argv[n]);
+    extern char *optarg;
+    extern int optind;
+    
+    if((nn=getopt(argc,argv,"x"))!= -1){
+        switch(nn){
+            case 'x':
+                sprintf(b,"%d",sum);
+                argv[argc+1]=b;
+                a=(int)strtol(argv[argc+1],NULL,16);
+                printf("%d %d\n",a,sum);
+                break;
+		default :
+                printf("Usage: %s [-x] n1 n2\n",argv[0]);
+                break;
+        }
+    }
+    else
+        printf("%d %X \n",sum,sum);
+    
+    
+    return 0;
+}

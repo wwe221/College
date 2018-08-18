@@ -1,0 +1,29 @@
+g=makeSound(getMediaPath('guzdial.wav'))
+i=makeSound(getMediaPath('is.wav'))
+sil=makeSound(getMediaPath('sec3silence.wav'))
+gLen=getLength(g)
+iLen=getLength(i)
+silLen=getLength(sil)
+target=sil
+silenceLen=int(0.1*getLength(sil))
+sumLen=gLen+iLen
+target=makeEmptySound(sumLen)
+
+def merge():
+  tIndex=0
+  for sample in range(0,getLength(g)):
+    vg=getSampleValueAt(g,sample)
+    setSampleValueAt(target,sample,vg)
+    tIndex=tIndex+1
+  silenceLen=int(0.1*getLength(sil))
+  for sample in range(0,silenceLen):
+    setSampleValueAt(target,tIndex,0)
+    tIndex=tIndex+1
+  for sample in range(0,getLength(i)):
+    vi=getSampleValueAt(i,sample)
+    setSampleValueAt(target,tIndex,vi)
+    tIndex=tIndex+1
+  return target
+  explore(sil)
+  
+  

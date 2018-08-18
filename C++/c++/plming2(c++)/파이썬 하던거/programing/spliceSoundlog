@@ -1,0 +1,130 @@
+<file_created time="Wed Apr 17 16:18:52 KST 2013">
+<menu_button time="Wed Apr 17 16:19:02 KST 2013">Undo</menu_button>
+<menu_button time="Wed Apr 17 16:19:02 KST 2013">Undo</menu_button>
+<command_run time="Wed Apr 17 16:19:17 KST 2013">p=makeSound(getMediaPath('preamble10.wav'))></command_run>
+<command_run time="Wed Apr 17 16:19:21 KST 2013">explore(p)></command_run>
+<menu_button time="Wed Apr 17 16:22:33 KST 2013">Command</menu_button>
+<menu_button time="Wed Apr 17 16:22:35 KST 2013">Editor</menu_button>
+<menu_button time="Wed Apr 17 16:22:35 KST 2013">Command</menu_button>
+<menu_button time="Wed Apr 17 16:22:36 KST 2013">Editor</menu_button>
+<menu_button time="Wed Apr 17 16:22:36 KST 2013">Command</menu_button>
+<command_run time="Wed Apr 17 16:22:55 KST 2013">getLength(p)></command_run>
+<menu_button time="Wed Apr 17 16:24:31 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 17 16:25:25 KST 2013">E:\programing\spliceSound</file_saved>
+</file_created>
+<command_run time="Wed Apr 17 16:25:44 KST 2013">spliceSound()></command_run>
+<menu_button time="Wed Apr 17 16:26:12 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 17 16:26:12 KST 2013">E:\programing\spliceSound</file_saved>
+</file_created>
+<command_run time="Wed Apr 17 16:26:12 KST 2013">spliceSound()></command_run>
+<menu_button time="Wed Apr 17 16:26:16 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 17 16:26:16 KST 2013">E:\programing\spliceSound</file_saved>
+</file_created>
+<command_run time="Wed Apr 17 16:26:16 KST 2013">spliceSound()></command_run>
+<command_run time="Wed Apr 17 16:26:17 KST 2013">spliceSound()></command_run>
+<command_run time="Wed Apr 17 16:26:18 KST 2013">spliceSound()></command_run>
+<command_run time="Wed Apr 17 16:26:19 KST 2013">spliceSound()></command_run>
+<command_run time="Wed Apr 17 16:26:19 KST 2013">spliceSound()></command_run>
+<command_run time="Wed Apr 17 16:26:19 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:26:19 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:26:20 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:26:20 KST 2013">></command_run>
+<menu_button time="Wed Apr 17 16:26:40 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 17 16:26:40 KST 2013">E:\programing\spliceSound</file_saved>
+</file_created>
+<command_run time="Wed Apr 17 16:26:55 KST 2013">my=spliceSound()></command_run>
+<command_run time="Wed Apr 17 16:27:02 KST 2013">play(my)></command_run>
+<command_run time="Wed Apr 17 16:27:15 KST 2013">print eP></command_run>
+<command_run time="Wed Apr 17 16:27:48 KST 2013">explore(my)></command_run>
+<menu_button time="Wed Apr 17 16:28:33 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 17 16:28:34 KST 2013">E:\programing\spliceSound</file_saved>
+</file_created>
+<menu_button time="Wed Apr 17 16:28:52 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 17 16:28:52 KST 2013">E:\programing\spliceSound</file_saved>
+</file_created>
+<command_run time="Wed Apr 17 16:28:52 KST 2013">explore(my)></command_run>
+<command_run time="Wed Apr 17 16:28:58 KST 2013">play(my)></command_run>
+<command_run time="Wed Apr 17 16:29:01 KST 2013">explore(my)></command_run>
+<command_run time="Wed Apr 17 16:29:06 KST 2013">my=spliceSound()></command_run>
+<command_run time="Wed Apr 17 16:29:08 KST 2013">explore(my)></command_run>
+<menu_button time="Wed Apr 17 16:29:28 KST 2013">Undo</menu_button>
+<menu_button time="Wed Apr 17 16:29:48 KST 2013">Undo</menu_button>
+<menu_button time="Wed Apr 17 16:30:10 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 17 16:30:10 KST 2013">E:\programing\spliceSound</file_saved>
+</file_created>
+<menu_button time="Wed Apr 17 16:30:17 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 17 16:30:17 KST 2013">E:\programing\spliceSound</file_saved>
+</file_created>
+<menu_button time="Wed Apr 17 16:30:23 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 17 16:30:23 KST 2013">E:\programing\spliceSound</file_saved>
+</file_created>
+<command_run time="Wed Apr 17 16:30:24 KST 2013">explore(my)></command_run>
+<command_run time="Wed Apr 17 16:30:34 KST 2013">spliceSound()></command_run>
+<menu_button time="Wed Apr 17 16:30:48 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Apr 17 16:30:55 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 17 16:30:55 KST 2013">E:\programing\spliceSound</file_saved>
+</file_created>
+<command_run time="Wed Apr 17 16:30:56 KST 2013">spliceSound()></command_run>
+<command_run time="Wed Apr 17 16:31:06 KST 2013">play(my)></command_run>
+<menu_button time="Wed Apr 17 16:35:29 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 17 16:35:29 KST 2013">E:\programing\spliceSound</file_saved>
+</file_created>
+<menu_button time="Wed Apr 17 16:35:33 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 17 16:35:33 KST 2013">E:\programing\spliceSound</file_saved>
+</file_created>
+<command_run time="Wed Apr 17 16:35:51 KST 2013">spliceSound()></command_run>
+<menu_button time="Wed Apr 17 16:37:47 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 17 16:37:47 KST 2013">E:\programing\spliceSound</file_saved>
+</file_created>
+<command_run time="Wed Apr 17 16:37:48 KST 2013">spliceSound()></command_run>
+<command_run time="Wed Apr 17 16:38:11 KST 2013">my=spliceSound()></command_run>
+<command_run time="Wed Apr 17 16:38:17 KST 2013">play(my)></command_run>
+<command_run time="Wed Apr 17 16:38:29 KST 2013">play(my)></command_run>
+<command_run time="Wed Apr 17 16:38:30 KST 2013">play(my)></command_run>
+<command_run time="Wed Apr 17 16:38:31 KST 2013">play(my)></command_run>
+<command_run time="Wed Apr 17 16:38:31 KST 2013">play(my)></command_run>
+<command_run time="Wed Apr 17 16:38:32 KST 2013">play(my)></command_run>
+<command_run time="Wed Apr 17 16:38:32 KST 2013">play(my)></command_run>
+<command_run time="Wed Apr 17 16:38:32 KST 2013">play(my)></command_run>
+<command_run time="Wed Apr 17 16:38:32 KST 2013">play(my)></command_run>
+<command_run time="Wed Apr 17 16:38:33 KST 2013">play(my)></command_run>
+<command_run time="Wed Apr 17 16:38:33 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:38:33 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:38:33 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:38:33 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:38:33 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:38:33 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:38:33 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:38:34 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:38:34 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:38:34 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:38:34 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:38:43 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:38:43 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:38:44 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:38:44 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:38:44 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:38:44 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:38:45 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:38:49 KST 2013">play(my)></command_run>
+<command_run time="Wed Apr 17 16:38:50 KST 2013">play(my)></command_run>
+<command_run time="Wed Apr 17 16:38:50 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:38:50 KST 2013">></command_run>
+<command_run time="Wed Apr 17 16:38:52 KST 2013">play(my)></command_run>
+<command_run time="Wed Apr 17 16:38:52 KST 2013">play(my)></command_run>
+<command_run time="Wed Apr 17 16:38:53 KST 2013">play(my)]></command_run>
+<command_run time="Wed Apr 17 16:38:54 KST 2013">play(my)]></command_run>
+<command_run time="Wed Apr 17 16:38:55 KST 2013">play(my)></command_run>
+<command_run time="Wed Apr 17 16:38:56 KST 2013">play(my)></command_run>
+<command_run time="Wed Apr 17 16:38:57 KST 2013">play(my)></command_run>
+<menu_button time="Wed Apr 17 16:40:30 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 17 16:40:30 KST 2013">E:\programing\spliceSound</file_saved>
+</file_created>
+<command_run time="Wed Apr 17 16:41:02 KST 2013">lab7_1()></command_run>
+<menu_button time="Wed Apr 17 16:41:26 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 17 16:41:26 KST 2013">E:\programing\spliceSound</file_saved>
+</file_created>
+<command_run time="Wed Apr 17 16:41:27 KST 2013">lab7_1()></command_run>
+<menu_button time="Wed Apr 17 16:41:36 KST 2013">Save Program</menu_button>
+<file_saved time="Wed Apr 17 16:41:36 KST 2013">E:\programing\spliceSound</file_saved>
+</file_created>

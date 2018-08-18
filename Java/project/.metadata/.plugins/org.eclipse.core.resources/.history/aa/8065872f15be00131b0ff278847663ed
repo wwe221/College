@@ -1,0 +1,9 @@
+
+public class TringleDriver {
+
+	public static void main(String [] args)
+	{
+		Triangle(3,4);
+		
+	}
+}

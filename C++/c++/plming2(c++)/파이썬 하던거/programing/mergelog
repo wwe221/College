@@ -1,0 +1,190 @@
+<file_created time="Tue Apr 16 13:08:03 KST 2013">
+<command_run time="Tue Apr 16 13:08:22 KST 2013">a=makePicture(getMediaPath('a.wav'))></command_run>
+<command_run time="Tue Apr 16 13:08:26 KST 2013">explore(a)></command_run>
+<command_run time="Tue Apr 16 13:08:30 KST 2013">play(a)></command_run>
+<command_run time="Tue Apr 16 13:08:42 KST 2013">play(a)></command_run>
+<command_run time="Tue Apr 16 13:08:53 KST 2013">print getMediaPath()></command_run>
+<command_run time="Tue Apr 16 13:08:57 KST 2013">a=makePicture(getMediaPath('a.wav'))></command_run>
+<command_run time="Tue Apr 16 13:09:04 KST 2013">getLength(a)></command_run>
+<command_run time="Tue Apr 16 13:09:20 KST 2013">a=makeSound(getMediaPath('a.wav'))></command_run>
+<command_run time="Tue Apr 16 13:09:24 KST 2013">play(a)></command_run>
+<command_run time="Tue Apr 16 13:09:26 KST 2013">getLength(a)></command_run>
+<command_run time="Tue Apr 16 13:11:33 KST 2013">samples=getSample(s)></command_run>
+<command_run time="Tue Apr 16 13:11:36 KST 2013">samples=getSample(a)></command_run>
+<command_run time="Tue Apr 16 13:11:44 KST 2013">samples=getSamples(a)></command_run>
+<command_run time="Tue Apr 16 13:11:57 KST 2013">samples[0]></command_run>
+<command_run time="Tue Apr 16 13:12:14 KST 2013">getSampleValueat(a,0)></command_run>
+<command_run time="Tue Apr 16 13:12:19 KST 2013">getSampleValueAt(a,0)></command_run>
+<command_run time="Tue Apr 16 13:12:40 KST 2013">a0=getSamplesAt(a,0)></command_run>
+<command_run time="Tue Apr 16 13:12:49 KST 2013">a0=getSampleAt(a,0)></command_run>
+<command_run time="Tue Apr 16 13:13:00 KST 2013">a0=getSampleValueAt(a,0)></command_run>
+<command_run time="Tue Apr 16 13:13:00 KST 2013">></command_run>
+<command_run time="Tue Apr 16 13:13:20 KST 2013">a0=getSampleObjectAt(a,0)></command_run>
+<command_run time="Tue Apr 16 13:13:37 KST 2013">a0=getSampleObjectAt(a,9508)></command_run>
+<command_run time="Tue Apr 16 13:13:56 KST 2013">getSampleValueAt(a,9508)></command_run>
+<command_run time="Tue Apr 16 13:14:00 KST 2013">getSampleValueAt(a,9507)></command_run>
+<command_run time="Tue Apr 16 13:14:12 KST 2013">explore(a)></command_run>
+<command_run time="Tue Apr 16 13:14:53 KST 2013">a0=getSampleObjectAt(a,9507)></command_run>
+<command_run time="Tue Apr 16 13:14:59 KST 2013">sample[a0]></command_run>
+<command_run time="Tue Apr 16 13:15:06 KST 2013">getSample[a0]></command_run>
+<command_run time="Tue Apr 16 13:15:17 KST 2013">getSample[s0]></command_run>
+<command_run time="Tue Apr 16 13:15:35 KST 2013">samples[9507]></command_run>
+<command_run time="Tue Apr 16 13:15:48 KST 2013">dlrtifkfiqnwuidjlfk woeirfoasidfo enojslkfjiwjoifj owijeofijwoeifjowi jefoiwjeofiwjefoiwjefoiwjefoiwjeofiwjeofiwjoeifjwoiejfowiejfowiejfowiejfowiejfowiejfowiejfowiejfoiwjeofiwjeofiwjoeifjwoeifjwoeifjwoiejfowiejfoij></command_run>
+<command_run time="Tue Apr 16 13:16:52 KST 2013">g=makeSound(getMediaPath('guzdial.wa'))></command_run>
+<command_run time="Tue Apr 16 13:16:56 KST 2013">g=makeSound(getMediaPath('guzdial.wav'))></command_run>
+<command_run time="Tue Apr 16 13:17:14 KST 2013">i=makeSound(getMediaPath('is.wav'))></command_run>
+<command_run time="Tue Apr 16 13:17:27 KST 2013">play(g)></command_run>
+<command_run time="Tue Apr 16 13:17:28 KST 2013">play(g)></command_run>
+<command_run time="Tue Apr 16 13:17:29 KST 2013">play(g)></command_run>
+<command_run time="Tue Apr 16 13:17:33 KST 2013">play(i)></command_run>
+<command_run time="Tue Apr 16 13:18:51 KST 2013">sil=makeSound(getMediaPath('sec3silence.wav'))></command_run>
+<command_run time="Tue Apr 16 13:20:01 KST 2013">gLen=getLength(g)></command_run>
+<command_run time="Tue Apr 16 13:20:08 KST 2013">iLen=getLength(i)></command_run>
+<command_run time="Tue Apr 16 13:20:16 KST 2013">silLen=getLength(sil)></command_run>
+<command_run time="Tue Apr 16 13:20:19 KST 2013">glen></command_run>
+<command_run time="Tue Apr 16 13:20:22 KST 2013">gLen></command_run>
+<command_run time="Tue Apr 16 13:20:24 KST 2013">sLen></command_run>
+<command_run time="Tue Apr 16 13:20:28 KST 2013">gLen></command_run>
+<command_run time="Tue Apr 16 13:21:06 KST 2013">vg0=getSample></command_run>
+<command_run time="Tue Apr 16 13:21:10 KST 2013">vg0=getSample(g,)></command_run>
+<command_run time="Tue Apr 16 13:21:17 KST 2013">vg0=getSampleValueAt(g,0)></command_run>
+<command_run time="Tue Apr 16 13:21:41 KST 2013">setSampleValueAt(sil,0,vg0)></command_run>
+<command_run time="Tue Apr 16 13:21:51 KST 2013">explore(sil)></command_run>
+<menu_button time="Tue Apr 16 13:23:07 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:24:59 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:25:16 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<command_run time="Tue Apr 16 13:25:27 KST 2013">merge()></command_run>
+<menu_button time="Tue Apr 16 13:25:45 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:25:45 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:25:45 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<command_run time="Tue Apr 16 13:25:46 KST 2013">merge()></command_run>
+<menu_button time="Tue Apr 16 13:25:53 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:25:54 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<command_run time="Tue Apr 16 13:25:54 KST 2013">merge()></command_run>
+<command_run time="Tue Apr 16 13:25:56 KST 2013">merge()></command_run>
+<command_run time="Tue Apr 16 13:25:58 KST 2013">merge()></command_run>
+<command_run time="Tue Apr 16 13:26:00 KST 2013">merge()></command_run>
+<command_run time="Tue Apr 16 13:26:50 KST 2013">merge()></command_run>
+<command_run time="Tue Apr 16 13:26:59 KST 2013">gLen></command_run>
+<command_run time="Tue Apr 16 13:27:05 KST 2013">sLen></command_run>
+<menu_button time="Tue Apr 16 13:27:10 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:27:10 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<command_run time="Tue Apr 16 13:27:10 KST 2013">sLen></command_run>
+<command_run time="Tue Apr 16 13:27:12 KST 2013">merge()></command_run>
+<menu_button time="Tue Apr 16 13:27:36 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:27:36 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<command_run time="Tue Apr 16 13:27:36 KST 2013">merge()></command_run>
+<command_run time="Tue Apr 16 13:27:51 KST 2013">gLen></command_run>
+<command_run time="Tue Apr 16 13:27:54 KST 2013">iLen></command_run>
+<menu_button time="Tue Apr 16 13:28:03 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:28:03 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<command_run time="Tue Apr 16 13:28:04 KST 2013">iLen></command_run>
+<command_run time="Tue Apr 16 13:28:05 KST 2013">merge()></command_run>
+<menu_button time="Tue Apr 16 13:28:09 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:28:10 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<command_run time="Tue Apr 16 13:28:10 KST 2013">merge()></command_run>
+<command_run time="Tue Apr 16 13:28:25 KST 2013">gLen></command_run>
+<menu_button time="Tue Apr 16 13:28:30 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:28:30 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<command_run time="Tue Apr 16 13:28:31 KST 2013">merge()></command_run>
+<menu_button time="Tue Apr 16 13:28:36 KST 2013">Load Program</menu_button>
+<command_run time="Tue Apr 16 13:28:36 KST 2013">></command_run>
+<command_run time="Tue Apr 16 13:28:37 KST 2013">merge()></command_run>
+<menu_button time="Tue Apr 16 13:29:08 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:29:09 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<command_run time="Tue Apr 16 13:29:09 KST 2013">merge()></command_run>
+<menu_button time="Tue Apr 16 13:29:17 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:29:18 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<menu_button time="Tue Apr 16 13:29:31 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:29:32 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<menu_button time="Tue Apr 16 13:29:44 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:29:45 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:29:45 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:29:45 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:29:45 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:29:45 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:29:46 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:29:54 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:29:54 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<command_run time="Tue Apr 16 13:29:55 KST 2013">merge()></command_run>
+<command_run time="Tue Apr 16 13:30:22 KST 2013">explore(sil)></command_run>
+<menu_button time="Tue Apr 16 13:31:46 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:31:47 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<command_run time="Tue Apr 16 13:31:48 KST 2013">merge()></command_run>
+<menu_button time="Tue Apr 16 13:32:01 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:32:02 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<command_run time="Tue Apr 16 13:32:02 KST 2013">merge()></command_run>
+<command_run time="Tue Apr 16 13:35:04 KST 2013">03></command_run>
+<command_run time="Tue Apr 16 13:35:20 KST 2013">getSamplingRate(sil)></command_run>
+<menu_button time="Tue Apr 16 13:37:34 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:37:35 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<command_run time="Tue Apr 16 13:37:39 KST 2013">merge()></command_run>
+<menu_button time="Tue Apr 16 13:37:57 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:37:57 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<command_run time="Tue Apr 16 13:37:58 KST 2013">merge()></command_run>
+<menu_button time="Tue Apr 16 13:38:09 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:38:09 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<command_run time="Tue Apr 16 13:38:10 KST 2013">merge()></command_run>
+<menu_button time="Tue Apr 16 13:39:04 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:39:04 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<command_run time="Tue Apr 16 13:39:04 KST 2013">merge()></command_run>
+<command_run time="Tue Apr 16 13:39:38 KST 2013">type(silenceLen)></command_run>
+<command_run time="Tue Apr 16 13:40:10 KST 2013">silenceLen=int(0.1*getLength(sil))></command_run>
+<command_run time="Tue Apr 16 13:40:11 KST 2013">silenceLen=int(0.1*getLength(sil))></command_run>
+<command_run time="Tue Apr 16 13:40:11 KST 2013">silenceLen=int(0.1*getLength(sil))silenceLen=int(0.1*getLength(sil))></command_run>
+<command_run time="Tue Apr 16 13:40:11 KST 2013">silenceLen=int(0.1*getLength(sil))></command_run>
+<command_run time="Tue Apr 16 13:40:11 KST 2013">></command_run>
+<command_run time="Tue Apr 16 13:40:13 KST 2013">silenceLen=int(0.1*getLength(sil))></command_run>
+<command_run time="Tue Apr 16 13:40:22 KST 2013">type(silence)></command_run>
+<command_run time="Tue Apr 16 13:40:24 KST 2013">type(silenceLen)></command_run>
+<command_run time="Tue Apr 16 13:40:32 KST 2013">></command_run>
+<menu_button time="Tue Apr 16 13:40:36 KST 2013">Load Program</menu_button>
+<command_run time="Tue Apr 16 13:40:46 KST 2013">merge(P></command_run>
+<command_run time="Tue Apr 16 13:40:50 KST 2013">merge()></command_run>
+<menu_button time="Tue Apr 16 13:41:04 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:41:04 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<command_run time="Tue Apr 16 13:41:05 KST 2013">merge()></command_run>
+<menu_button time="Tue Apr 16 13:46:25 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:46:25 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:46:26 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:46:26 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:46:26 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:46:27 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:46:27 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:46:27 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:46:29 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:46:29 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:46:30 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:46:52 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:47:14 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:47:14 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<menu_button time="Tue Apr 16 13:47:26 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:47:26 KST 2013">E:\programing\merge</file_saved>
+</file_created>
+<menu_button time="Tue Apr 16 13:47:37 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 16 13:48:38 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 16 13:48:38 KST 2013">E:\programing\merge</file_saved>
+<file_opened time="Wed Apr 17 17:30:14 KST 2013">E:\programing\merge</file_opened>
+<menu_button time="Wed Apr 17 17:44:14 KST 2013">Save Program</menu_button>
+<file_saved time="Wed Apr 17 17:44:14 KST 2013">E:\programing\merge</file_saved>
+</file_created>

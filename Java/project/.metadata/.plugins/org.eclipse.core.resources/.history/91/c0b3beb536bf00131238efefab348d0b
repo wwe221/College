@@ -1,0 +1,42 @@
+import java.util.Scanner;
+public class ConcertReservation {
+	private int numb = 0;
+	private String name[],sit[];
+	public ConcertReservation(){
+		int i=0;
+		int in;
+		Scanner scan= new Scanner(System.in);
+		in = scan.nextInt();
+		while(i==0){
+			switch(in){
+			case 1:
+				Reserv();
+				break;
+			case 2:
+				search
+			}
+		}
+	}
+	public void Reserv(){
+		int inin;
+		String in2;
+		Scanner scan2= new Scanner(System.in);
+		inin = scan2.nextInt();
+		
+		System.out.println("S(1) A(2) B(3):");
+		switch(inin){
+			case 1:
+				sit[numb]="S";
+				break;
+			case 2:
+				sit[numb]="A";
+				break;
+			case 3:
+				sit[numb]="B";
+				break;
+			default:
+				System.out.println("올바른 입력이 아닙니다");}
+		System.out.println("이름:");
+		name[numb] = scan2.next();numb++;
+		System.out.println("예약번호는"+numb+"번 입니다.");}
+}

@@ -1,0 +1,23 @@
+def lab7_1():
+  p=makeSound(getMediaPath('preamble10.wav'))
+  my=spliceSound(p)
+  play(my)
+def copyASample(source,target,fr,to):
+  v=getSampleValueAt(p,fr)
+  setSampleValueAt(target,to,v)
+
+def spliceSound(sound):
+  sound=makeSound(getMediaPath('preamble10.wav'))
+  eP=getLength(sound)
+  target=makeEmptySound(eP+40052-33414)
+  t=0
+  for i in range(0,17407):
+    copyASample(sound,target,i,t)
+    t=t+1
+  for i in range(33414,40052):
+    copyASample(sound,target,i,t)
+    t=t+1
+  for i in range(17407,eP):
+    copyASample(sound,target,i,t)
+    t=t+1
+  return target

@@ -1,0 +1,17 @@
+
+public class Song {
+	private char title,artist,album,composer;
+	int year,track ;
+	
+	public Song(char t,char a,char al, char com, int y, int tr){
+	title=t;
+	artist=a;
+	album=al;
+	composer=com;
+	year=y;
+	track=tr;
+	}
+	public String toString(){
+		return ("Title:"+title+"\nArtist:"+artist+"\nAlbum:"+album+"\nComposer:"+composer+"\nYear:"+year+"\nTrack:"+track);
+	}
+}

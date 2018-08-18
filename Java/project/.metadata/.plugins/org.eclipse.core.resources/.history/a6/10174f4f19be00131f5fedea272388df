@@ -1,0 +1,14 @@
+
+public class SongDriver {
+
+		public static void main(String[] args){
+			String  a,b,c,d;
+			a="첫사랑";
+			b="버스커버스커";
+			c="버스커버스커";
+			d="장범준";
+			Song soso = new Song(a,b,c,d,2013,3);
+			System.out.println(soso.toString());
+			
+		}
+}

@@ -1,0 +1,14 @@
+def lab5_1():  
+  pn=getMediaPath('KatieFancy.jpg.')
+  pic=makePicture(pn)
+  show(pic)
+  removeRedEye(pic,109,91,202,107,makeColor(0,0,0))
+
+def removeRedEye(pic,x1,y1,x2,y2,newColor):
+   for x in range(x1,x2):
+    for y in range(y1,y2):
+     p=getPixel(pic,x,y)
+     c=getColor(p)
+    if distance(c,red) <165:
+      setColor(p,newColor)
+   repaint(pic)

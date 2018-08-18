@@ -1,0 +1,18 @@
+<file_created time="Wed Mar 27 17:41:59 KST 2013">
+<command_run time="Wed Mar 27 17:44:27 KST 2013">head=makePicture(getMediaPath('barbara.jpg'))></command_run>
+<command_run time="Wed Mar 27 17:44:34 KST 2013">explore(head)></command_run>
+<menu_button time="Wed Mar 27 17:47:52 KST 2013">Save Program</menu_button>
+<file_saved time="Wed Mar 27 17:47:59 KST 2013">E:\lab4_1</file_saved>
+</file_created>
+<menu_button time="Wed Mar 27 17:48:01 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 17:49:07 KST 2013">Open Program</menu_button>
+<file_saved time="Wed Mar 27 17:49:10 KST 2013">E:\lab4_1</file_saved>
+<file_opened time="Wed Mar 27 18:04:05 KST 2013">E:\lab4_1</file_opened>
+<command_run time="Wed Mar 27 18:09:20 KST 2013">samgak()></command_run>
+<menu_button time="Wed Mar 27 18:09:43 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Mar 27 18:09:44 KST 2013">E:\lab4_1</file_saved>
+</file_created>
+<command_run time="Wed Mar 27 18:09:45 KST 2013">samgak()></command_run>
+<menu_button time="Wed Mar 27 18:09:58 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Mar 27 18:09:59 KST 2013">E:\lab4_1</file_saved>
+</file_created>

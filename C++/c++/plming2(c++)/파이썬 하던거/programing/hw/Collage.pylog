@@ -1,0 +1,739 @@
+<file_created time="Thu Apr 11 19:55:42 KST 2013">
+<command_run time="Thu Apr 11 19:56:54 KST 2013">getMediaPath()></command_run>
+<command_run time="Thu Apr 11 19:57:00 KST 2013">setMediaPath()></command_run>
+<command_run time="Thu Apr 11 19:57:24 KST 2013">pic=makePicture(getMediaPath('flower'))></command_run>
+<command_run time="Thu Apr 11 19:57:45 KST 2013">pic=makePicture(getMediaPath('flower.jpg'))></command_run>
+<command_run time="Thu Apr 11 19:57:52 KST 2013">explore(pic)></command_run>
+<command_run time="Thu Apr 11 20:05:34 KST 2013">explore(pic)></command_run>
+<command_run time="Thu Apr 11 20:08:15 KST 2013">156*3></command_run>
+<menu_button time="Thu Apr 11 20:11:19 KST 2013">Save Program</menu_button>
+<file_saved time="Thu Apr 11 20:11:23 KST 2013">C:\Documents and Settings\manager\mirror</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:11:24 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:11:32 KST 2013">mirroring(pic)></command_run>
+<command_run time="Thu Apr 11 20:12:48 KST 2013">mirroring(pic)></command_run>
+<command_run time="Thu Apr 11 20:13:55 KST 2013">mirroring(pic)></command_run>
+<menu_button time="Thu Apr 11 20:17:29 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:17:30 KST 2013">C:\Documents and Settings\manager\mirror</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 20:17:30 KST 2013">mirroring(pic)></command_run>
+<menu_button time="Thu Apr 11 20:18:20 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:18:20 KST 2013">C:\Documents and Settings\manager\mirror</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:18:26 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:18:26 KST 2013">C:\Documents and Settings\manager\mirror</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 20:18:28 KST 2013">collage></command_run>
+<command_run time="Thu Apr 11 20:18:31 KST 2013">collage()></command_run>
+<menu_button time="Thu Apr 11 20:18:51 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:18:51 KST 2013">C:\Documents and Settings\manager\mirror</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 20:18:52 KST 2013">collage()></command_run>
+<menu_button time="Thu Apr 11 20:19:04 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:19:04 KST 2013">C:\Documents and Settings\manager\mirror</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 20:19:04 KST 2013">></command_run>
+<command_run time="Thu Apr 11 20:19:05 KST 2013">></command_run>
+<command_run time="Thu Apr 11 20:19:06 KST 2013">collage()></command_run>
+<menu_button time="Thu Apr 11 20:19:15 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:19:15 KST 2013">C:\Documents and Settings\manager\mirror</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 20:19:16 KST 2013">collage()></command_run>
+<menu_button time="Thu Apr 11 20:19:48 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:19:48 KST 2013">C:\Documents and Settings\manager\mirror</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 20:19:49 KST 2013">collage()></command_run>
+<command_run time="Thu Apr 11 20:20:43 KST 2013">mirror2()></command_run>
+<command_run time="Thu Apr 11 20:20:46 KST 2013">mirror2(pic)></command_run>
+<command_run time="Thu Apr 11 20:20:55 KST 2013">repaint(pic)></command_run>
+<menu_button time="Thu Apr 11 20:21:03 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:21:04 KST 2013">C:\Documents and Settings\manager\mirror</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 20:21:05 KST 2013">mirror2(pic)></command_run>
+<menu_button time="Thu Apr 11 20:22:14 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:22:14 KST 2013">C:\Documents and Settings\manager\mirror</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:25:00 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:01 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:01 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:01 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:01 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:01 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:01 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:02 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:02 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:02 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:02 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:02 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:02 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:03 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:03 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:03 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:03 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:03 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:03 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:04 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:04 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:04 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:04 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:04 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:05 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:31 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:25:32 KST 2013">C:\Documents and Settings\manager\mirror</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:25:41 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:25:58 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:25:58 KST 2013">C:\Documents and Settings\manager\mirror</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:26:17 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:26:17 KST 2013">C:\Documents and Settings\manager\mirror</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 20:26:20 KST 2013">mirror2(pic)></command_run>
+<menu_button time="Thu Apr 11 20:26:47 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:26:47 KST 2013">C:\Documents and Settings\manager\mirror</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 20:26:48 KST 2013">mirror2(pic)></command_run>
+<menu_button time="Thu Apr 11 20:27:55 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:27:55 KST 2013">C:\Documents and Settings\manager\mirror</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 20:27:56 KST 2013">mirror2(pic)></command_run>
+<menu_button time="Thu Apr 11 20:27:59 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:28:06 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:28:07 KST 2013">C:\Documents and Settings\manager\mirror</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 20:28:07 KST 2013">mirror2(pic)></command_run>
+<menu_button time="Thu Apr 11 20:28:21 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:28:22 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:28:22 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:28:22 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:28:22 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:28:22 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:28:22 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:28:23 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:28:23 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:28:23 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:28:23 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:28:24 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:28:24 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:28:24 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:28:24 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:28:24 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:28:25 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:28:25 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:28:55 KST 2013">Save Program</menu_button>
+<file_saved time="Thu Apr 11 20:28:55 KST 2013">C:\Documents and Settings\manager\mirror</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:28:57 KST 2013">Save Program As...</menu_button>
+<menu_button time="Thu Apr 11 20:29:35 KST 2013">Save Program As...</menu_button>
+<file_saved time="Thu Apr 11 20:29:54 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 20:30:15 KST 2013">collage(pic)></command_run>
+<command_run time="Thu Apr 11 20:30:18 KST 2013">collage()></command_run>
+<menu_button time="Thu Apr 11 20:30:37 KST 2013">Save Program</menu_button>
+<file_saved time="Thu Apr 11 20:30:37 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:41:15 KST 2013">Save Program</menu_button>
+<file_saved time="Thu Apr 11 20:41:15 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:43:01 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:43:01 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:43:12 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:43:12 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:43:17 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:43:18 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:43:23 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:43:23 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:43:26 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:43:57 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:43:57 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:44:13 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:44:13 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:44:36 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:44:37 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:45:36 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:45:39 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:45:41 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:45:43 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:45:44 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:46:30 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:46:31 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:47:16 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:28 KST 2013">Save Program</menu_button>
+<file_saved time="Thu Apr 11 20:47:28 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:47:46 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:47:47 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:47:47 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:47:47 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:47:48 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:47:48 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:47:48 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:47:48 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:47:48 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:47:48 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:47:48 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:47:48 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:47:48 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:47:49 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:47:49 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:47:49 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:47:49 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:49 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:47:49 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:47:49 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:47:49 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:47:50 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:47:50 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:47:50 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:47:50 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:47:50 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:47:50 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:47:50 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:47:50 KST 2013">></command_run>
+<command_run time="Thu Apr 11 20:47:50 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:47:50 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:47:51 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:47:51 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:47:51 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:47:51 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:47:51 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:47:51 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:47:51 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:47:51 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:47:51 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:47:51 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:51 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:52 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:52 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:53 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:54 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:55 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:55 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:55 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:55 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:55 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:55 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:55 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:56 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:56 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:56 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:56 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:56 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:57 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:57 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:57 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:57 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:57 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:58 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:58 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:58 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:58 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:58 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:58 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:59 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:59 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:59 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:59 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:59 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:47:59 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:48:00 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:48:53 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:48:53 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:48:54 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:48:54 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:48:54 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:48:54 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:48:54 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:48:54 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:48:54 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:48:54 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:48:55 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:48:55 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:48:55 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 20:48:55 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 20:48:55 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:48:55 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:48:56 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:48:56 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:48:56 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 20:49:52 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:49:52 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 20:49:56 KST 2013">color(pic)></command_run>
+<menu_button time="Thu Apr 11 20:50:27 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:50:28 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 20:50:28 KST 2013">color(pic)></command_run>
+<menu_button time="Thu Apr 11 20:50:34 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:50:35 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:50:38 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:50:38 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 20:50:39 KST 2013">color(pic)></command_run>
+<menu_button time="Thu Apr 11 20:51:01 KST 2013">Save Program</menu_button>
+<file_saved time="Thu Apr 11 20:51:01 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:54:18 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:54:19 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 20:54:26 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:54:27 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 20:54:34 KST 2013">color2(pic)></command_run>
+<menu_button time="Thu Apr 11 20:54:47 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 20:54:47 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 20:54:48 KST 2013">color2(pic)></command_run>
+<menu_button time="Thu Apr 11 20:55:06 KST 2013">Save Program</menu_button>
+<file_saved time="Thu Apr 11 20:55:06 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 20:55:37 KST 2013">Save Program</menu_button>
+<file_saved time="Thu Apr 11 20:55:37 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 20:56:35 KST 2013">canvas=makePicture(getMediaPath('7inX95in.jpg))></command_run>
+<command_run time="Thu Apr 11 20:56:43 KST 2013">show></command_run>
+<command_run time="Thu Apr 11 20:56:44 KST 2013">canvas=makePicture(getMediaPath('7inX95in.jpg'))></command_run>
+<command_run time="Thu Apr 11 20:56:50 KST 2013">explore(canvas)></command_run>
+<menu_button time="Thu Apr 11 21:00:02 KST 2013">Save Program</menu_button>
+<file_saved time="Thu Apr 11 21:00:02 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 21:08:45 KST 2013">Save Program</menu_button>
+<file_saved time="Thu Apr 11 21:08:45 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 21:14:07 KST 2013">setMediaPath()></command_run>
+<menu_button time="Thu Apr 11 21:17:33 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 21:17:34 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 21:17:36 KST 2013">Save Program</menu_button>
+<file_saved time="Thu Apr 11 21:17:36 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 21:17:47 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 21:17:47 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 21:18:05 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 21:18:06 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 21:18:11 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 21:18:11 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 21:18:17 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 21:18:17 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 21:18:22 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 21:18:22 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 21:18:28 KST 2013">Save Program</menu_button>
+<file_saved time="Thu Apr 11 21:18:28 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 21:18:52 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 21:18:53 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 21:18:53 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 21:18:53 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 21:18:54 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 21:19:03 KST 2013">Save Program As...</menu_button>
+<file_saved time="Thu Apr 11 21:19:06 KST 2013">E:\programing\hw\Collage1.py</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 21:19:27 KST 2013">setMediaPath()></command_run>
+<menu_button time="Thu Apr 11 21:19:43 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 21:19:43 KST 2013">E:\programing\hw\Collage1.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 21:19:44 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 21:19:44 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 21:19:44 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:44 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:44 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:44 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:45 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 21:19:45 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 21:19:45 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 21:19:45 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 21:19:45 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 21:19:45 KST 2013">></command_run>
+<menu_button time="Thu Apr 11 21:19:45 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:45 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:48 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:48 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:48 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:48 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:48 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:49 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:49 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:49 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:49 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:49 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:50 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:50 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:51 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:51 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:51 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:51 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:52 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:52 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:52 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:52 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:19:53 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:20:01 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 21:20:02 KST 2013">E:\programing\hw\Collage1.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 21:20:22 KST 2013">Save Program</menu_button>
+<file_saved time="Thu Apr 11 21:20:22 KST 2013">E:\programing\hw\Collage1.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 21:21:48 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 21:21:48 KST 2013">E:\programing\hw\Collage1.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 21:22:07 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Apr 11 21:22:08 KST 2013">Load Program</menu_button>
+<command_run time="Thu Apr 11 21:22:21 KST 2013">canvas()></command_run>
+<menu_button time="Thu Apr 11 21:22:38 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 21:22:39 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 21:23:42 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 21:23:42 KST 2013">E:\programing\hw\Collage1.py</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 21:23:45 KST 2013">canvas()></command_run>
+<menu_button time="Thu Apr 11 21:24:16 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 21:24:17 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 21:24:17 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 21:24:17 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 21:24:17 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 21:24:18 KST 2013">Undo</menu_button>
+<menu_button time="Thu Apr 11 21:24:27 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 21:24:27 KST 2013">E:\programing\hw\Collage1.py</file_saved>
+</file_created>
+<command_run time="Thu Apr 11 21:24:28 KST 2013">canvas()></command_run>
+<menu_button time="Thu Apr 11 21:24:39 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 21:24:39 KST 2013">E:\programing\hw\Collage1.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 21:24:50 KST 2013">Open Program</menu_button>
+<menu_button time="Thu Apr 11 21:24:53 KST 2013">Save Program</menu_button>
+<file_saved time="Thu Apr 11 21:24:59 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 21:25:01 KST 2013">Save Program</menu_button>
+<file_saved time="Thu Apr 11 21:25:01 KST 2013">E:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Thu Apr 11 21:25:42 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Apr 11 21:25:43 KST 2013">E:\programing\hw\Collage.py</file_saved>
+<file_opened time="Sat Apr 13 16:34:37 KST 2013">F:\programing\hw\Collage.py</file_opened>
+<menu_button time="Sat Apr 13 16:34:41 KST 2013">Load Program</menu_button>
+<command_run time="Sat Apr 13 16:35:01 KST 2013">print getMediaPath()></command_run>
+<command_run time="Sat Apr 13 16:35:06 KST 2013">setMediaPath()></command_run>
+<menu_button time="Sat Apr 13 16:35:13 KST 2013">Load Program</menu_button>
+<command_run time="Sat Apr 13 16:35:23 KST 2013">mirror()></command_run>
+<command_run time="Sat Apr 13 16:35:26 KST 2013">mirror(pic1)></command_run>
+<menu_button time="Sat Apr 13 16:35:34 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 16:35:35 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 16:35:36 KST 2013">mirror(pic1)></command_run>
+<menu_button time="Sat Apr 13 16:35:58 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 16:35:58 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 16:36:03 KST 2013">mirrorFail(pic2)></command_run>
+<menu_button time="Sat Apr 13 16:36:24 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 16:36:24 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 16:36:37 KST 2013">color1(></command_run>
+<command_run time="Sat Apr 13 16:36:40 KST 2013">color1(pic3)></command_run>
+<command_run time="Sat Apr 13 16:36:45 KST 2013">color(pic3)></command_run>
+<command_run time="Sat Apr 13 16:37:25 KST 2013">color2(pic4)></command_run>
+<menu_button time="Sat Apr 13 16:38:44 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 16:38:44 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 16:38:50 KST 2013">mirror(pic)></command_run>
+<command_run time="Sat Apr 13 16:38:51 KST 2013">mirror(pic1)></command_run>
+<menu_button time="Sat Apr 13 16:39:17 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 16:39:18 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 16:39:19 KST 2013">mirror(pic1)></command_run>
+<menu_button time="Sat Apr 13 16:41:20 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 16:41:20 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 16:41:21 KST 2013">mirror(pic1)></command_run>
+<menu_button time="Sat Apr 13 16:41:26 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:41:27 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:41:28 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:41:28 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:41:28 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:41:28 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:41:28 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:41:29 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:41:29 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:41:29 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:41:29 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:41:29 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:41:30 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:41:30 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:41:30 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:41:30 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:41:31 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:41:31 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:41:32 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:41:32 KST 2013">Undo</menu_button>
+<command_run time="Sat Apr 13 16:42:39 KST 2013">canvas()></command_run>
+<menu_button time="Sat Apr 13 16:42:48 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 16:42:48 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 16:42:50 KST 2013">canvas()></command_run>
+<menu_button time="Sat Apr 13 16:42:54 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 16:42:55 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 16:42:56 KST 2013">canvas()></command_run>
+<menu_button time="Sat Apr 13 16:43:34 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 16:43:34 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 16:43:35 KST 2013">canvas()></command_run>
+<command_run time="Sat Apr 13 16:45:44 KST 2013">mirror(pic1)></command_run>
+<menu_button time="Sat Apr 13 16:45:55 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 16:45:56 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 16:45:56 KST 2013">mirror(pic1)></command_run>
+<menu_button time="Sat Apr 13 16:46:58 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:46:58 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:46:59 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:46:59 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:47:51 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:48:25 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 16:48:26 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Sat Apr 13 16:48:38 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:48:40 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 16:48:41 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Sat Apr 13 16:48:46 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 16:48:46 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 16:48:54 KST 2013">Collage()></command_run>
+<command_run time="Sat Apr 13 16:49:04 KST 2013">Collage()></command_run>
+<menu_button time="Sat Apr 13 16:49:13 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 16:49:13 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Sat Apr 13 16:49:32 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:33 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:46 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:47 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:47 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:47 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:47 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:47 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:47 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:47 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:48 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:48 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:48 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:48 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:48 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:48 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:48 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:48 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:48 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:49 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:49 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:49 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:49 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:49 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:49 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:49 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:50 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:50 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:50 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:50 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:50 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:51 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:51 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:51 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:51 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:51 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:51 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:52 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:52 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:52 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:52 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:52 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:53 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:53 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:53 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:53 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:53 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:49:54 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 16:50:14 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 16:50:15 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 16:50:18 KST 2013">collage()></command_run>
+<command_run time="Sat Apr 13 16:50:58 KST 2013">print getMediaPath()></command_run>
+<command_run time="Sat Apr 13 16:51:41 KST 2013">mirrorFail(pic2)></command_run>
+<command_run time="Sat Apr 13 16:51:50 KST 2013">colo1(pic#)></command_run>
+<command_run time="Sat Apr 13 16:51:52 KST 2013">colo1(pic3)></command_run>
+<command_run time="Sat Apr 13 16:51:54 KST 2013">color1(pic3)></command_run>
+<command_run time="Sat Apr 13 16:52:06 KST 2013">color2(pic4)></command_run>
+<command_run time="Sat Apr 13 16:52:15 KST 2013">collage()></command_run>
+<command_run time="Sat Apr 13 16:52:31 KST 2013">print getMediaPath()></command_run>
+<command_run time="Sat Apr 13 16:53:15 KST 2013">collage()></command_run>
+<menu_button time="Sat Apr 13 16:54:02 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 16:54:03 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 16:54:05 KST 2013">collage()></command_run>
+<menu_button time="Sat Apr 13 16:56:48 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 16:56:49 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Sat Apr 13 17:00:14 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 17:00:14 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 17:00:20 KST 2013">collage()></command_run>
+<menu_button time="Sat Apr 13 17:00:36 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 17:00:36 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Sat Apr 13 17:00:39 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:00:40 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:00:43 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:00:44 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:00:44 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:00:44 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:03:29 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 17:03:29 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 17:03:30 KST 2013">collage()></command_run>
+<menu_button time="Sat Apr 13 17:04:22 KST 2013">Load Program</menu_button>
+<command_run time="Sat Apr 13 17:04:24 KST 2013">collage()></command_run>
+<menu_button time="Sat Apr 13 17:06:41 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 17:06:41 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 17:06:42 KST 2013">collage()></command_run>
+<menu_button time="Sat Apr 13 17:06:48 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:06:49 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:06:49 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:06:50 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:06:50 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:06:50 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:06:50 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:06:50 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:06:50 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:06:50 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:06:50 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:06:50 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:06:51 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:06:51 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:06:51 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:06:51 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:06:51 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:06:51 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:06:51 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:07:45 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 17:07:46 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Sat Apr 13 17:09:01 KST 2013">Save Program</menu_button>
+<file_saved time="Sat Apr 13 17:09:01 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Sat Apr 13 17:09:08 KST 2013">Save Program As...</menu_button>
+<menu_button time="Sat Apr 13 17:09:39 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 17:09:39 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 17:09:40 KST 2013">></command_run>
+<command_run time="Sat Apr 13 17:09:41 KST 2013">></command_run>
+<command_run time="Sat Apr 13 17:09:43 KST 2013">collage()></command_run>
+<menu_button time="Sat Apr 13 17:12:25 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 17:12:26 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 17:12:27 KST 2013">collage()></command_run>
+<menu_button time="Sat Apr 13 17:12:40 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 17:12:41 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 17:12:41 KST 2013">collage()></command_run>
+<command_run time="Sat Apr 13 17:13:30 KST 2013">copyGnerrally(pic1,canvas,0,0)></command_run>
+<command_run time="Sat Apr 13 17:13:52 KST 2013">show(copyGnerrally(pic1,canvas,0,0))></command_run>
+<command_run time="Sat Apr 13 17:14:15 KST 2013">show(canvas)></command_run>
+<command_run time="Sat Apr 13 17:15:22 KST 2013">collage()></command_run>
+<menu_button time="Sat Apr 13 17:16:16 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 17:16:17 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 17:16:18 KST 2013">collage()></command_run>
+<menu_button time="Sat Apr 13 17:17:18 KST 2013">Load Program</menu_button>
+<command_run time="Sat Apr 13 17:17:19 KST 2013">collage()></command_run>
+<menu_button time="Sat Apr 13 17:19:14 KST 2013">Save Program</menu_button>
+<file_saved time="Sat Apr 13 17:19:14 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Sat Apr 13 17:19:43 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:19:45 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:19:46 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 17:19:47 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 17:19:48 KST 2013">collage()></command_run>
+<menu_button time="Sat Apr 13 17:21:49 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 17:21:49 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Sat Apr 13 17:21:59 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 17:22:00 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 17:22:01 KST 2013">collage()></command_run>
+<command_run time="Sat Apr 13 17:22:07 KST 2013">main()></command_run>
+<command_run time="Sat Apr 13 17:22:41 KST 2013">mirror(pic1)></command_run>
+<command_run time="Sat Apr 13 17:22:52 KST 2013">mirrorFail(pic2)></command_run>
+<command_run time="Sat Apr 13 17:23:21 KST 2013">color2(pic4)></command_run>
+<command_run time="Sat Apr 13 17:23:35 KST 2013">color1(pic3)></command_run>
+<menu_button time="Sat Apr 13 17:24:10 KST 2013">Load Program</menu_button>
+<menu_button time="Sat Apr 13 17:24:16 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:24:17 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:24:18 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:24:18 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:24:19 KST 2013">Undo</menu_button>
+<menu_button time="Sat Apr 13 17:24:43 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 17:24:44 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 17:24:48 KST 2013">main()></command_run>
+<menu_button time="Sat Apr 13 17:25:11 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 17:25:12 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 17:25:17 KST 2013">main()></command_run>
+<command_run time="Sat Apr 13 17:25:53 KST 2013">mirror()></command_run>
+<command_run time="Sat Apr 13 17:25:58 KST 2013">mirror(pic1)></command_run>
+<command_run time="Sat Apr 13 17:26:07 KST 2013">mirrorfail(pic2)></command_run>
+<command_run time="Sat Apr 13 17:26:10 KST 2013">mirrorFail(pic2)></command_run>
+<command_run time="Sat Apr 13 17:26:16 KST 2013">></command_run>
+<command_run time="Sat Apr 13 17:26:19 KST 2013">color1(pic3)></command_run>
+<command_run time="Sat Apr 13 17:26:31 KST 2013">color2(pic4(></command_run>
+<command_run time="Sat Apr 13 17:26:33 KST 2013">color2(pic4)></command_run>
+<command_run time="Sat Apr 13 17:26:47 KST 2013">color1(pic3)></command_run>
+<command_run time="Sat Apr 13 17:26:55 KST 2013">color1(pic3)></command_run>
+<menu_button time="Sat Apr 13 17:27:11 KST 2013">Save Program</menu_button>
+<file_saved time="Sat Apr 13 17:27:11 KST 2013">F:\programing\hw\Collage.py</file_saved>
+<file_opened time="Sat Apr 13 17:28:05 KST 2013">F:\programing\hw\Collage.py</file_opened>
+<command_run time="Sat Apr 13 17:28:16 KST 2013">setMediaPath()></command_run>
+<menu_button time="Sat Apr 13 17:28:26 KST 2013">Load Program</menu_button>
+<command_run time="Sat Apr 13 17:28:31 KST 2013">main()></command_run>
+<command_run time="Sat Apr 13 17:28:51 KST 2013">></command_run>
+<command_run time="Sat Apr 13 17:29:00 KST 2013">mirror(pic1)></command_run>
+<command_run time="Sat Apr 13 17:29:06 KST 2013">></command_run>
+<command_run time="Sat Apr 13 17:29:07 KST 2013">mirrorFail(pic2)></command_run>
+<menu_button time="Sat Apr 13 17:29:40 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 17:29:40 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 17:29:42 KST 2013">></command_run>
+<command_run time="Sat Apr 13 17:29:45 KST 2013">></command_run>
+<command_run time="Sat Apr 13 17:29:48 KST 2013">main()></command_run>
+<menu_button time="Sat Apr 13 17:30:18 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 17:30:19 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<command_run time="Sat Apr 13 17:30:20 KST 2013">main()></command_run>
+<menu_button time="Sat Apr 13 17:31:12 KST 2013">Load Program</menu_button>
+<file_saved time="Sat Apr 13 17:31:14 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Sat Apr 13 17:31:17 KST 2013">Load Program</menu_button>
+<command_run time="Sat Apr 13 17:31:18 KST 2013">main()></command_run>
+<menu_button time="Sat Apr 13 17:32:09 KST 2013">Save Program</menu_button>
+<file_saved time="Sat Apr 13 17:32:09 KST 2013">F:\programing\hw\Collage.py</file_saved>
+<file_opened time="Sun Apr 14 22:35:40 KST 2013">F:\programing\hw\Collage.py</file_opened>
+<menu_button time="Sun Apr 14 22:36:10 KST 2013">Load Program</menu_button>
+<file_saved time="Sun Apr 14 22:36:11 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>
+<menu_button time="Sun Apr 14 22:36:20 KST 2013">Load Program</menu_button>
+<file_saved time="Sun Apr 14 22:36:21 KST 2013">F:\programing\hw\Collage.py</file_saved>
+</file_created>

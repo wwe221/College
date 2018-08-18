@@ -1,0 +1,82 @@
+<file_created time="Tue Apr 02 13:16:24 KST 2013">
+<command_run time="Tue Apr 02 13:24:46 KST 2013">p=getMediaPath('KatieFancy.jpg')></command_run>
+<command_run time="Tue Apr 02 13:24:53 KST 2013">pic=makePicture(p)></command_run>
+<command_run time="Tue Apr 02 13:24:58 KST 2013">explore(pic)></command_run>
+<command_run time="Tue Apr 02 13:27:10 KST 2013">for p in get pixels(pic):
+  cThis=getColor(p)
+  if distance(cBrown,cThis) < 50.0:
+    pRed2=getRed(p)*2
+    pGreen=getGreen(p)
+...></command_run>
+<command_run time="Tue Apr 02 13:27:31 KST 2013">cBrown=makeColor(42,25,15)></command_run>
+<command_run time="Tue Apr 02 13:28:03 KST 2013">x=5=15=25></command_run>
+<command_run time="Tue Apr 02 13:28:10 KST 2013">x=5=ipo1></command_run>
+<command_run time="Tue Apr 02 13:29:58 KST 2013">for p in getPixels(pic)></command_run>
+<command_run time="Tue Apr 02 13:31:13 KST 2013">for p in getPixels(pic):
+  cThis=getColor(p)
+  if distance(cBrown,cThis) < 50.0:
+  pRed2=getRed(p)*2
+    pRed2=getRed(p)*2
+   ></command_run>
+<command_run time="Tue Apr 02 13:32:14 KST 2013">print sibal></command_run>
+<command_run time="Tue Apr 02 13:33:17 KST 2013">p00=getPixel(pic,0,0)></command_run>
+<command_run time="Tue Apr 02 13:33:20 KST 2013">c00=getColor(pic,0,0)></command_run>
+<command_run time="Tue Apr 02 13:33:35 KST 2013">c00=getColor(p00)></command_run>
+<command_run time="Tue Apr 02 13:33:57 KST 2013">distance(c00,cBrown)></command_run>
+<command_run time="Tue Apr 02 13:34:53 KST 2013">distance(getColor(getPixel(99,22)),cBrown)></command_run>
+<command_run time="Tue Apr 02 13:34:55 KST 2013">distance(getColor(getPixel(99,22)),cBrown))></command_run>
+<command_run time="Tue Apr 02 13:35:11 KST 2013">distance(getColor(getPixel(pic,99,22)),cBrown)></command_run>
+<command_run time="Tue Apr 02 13:37:59 KST 2013">if distance(c00,cBrown) <50.0:
+  print  "less"
+ else;
+  print "more"></command_run>
+<command_run time="Tue Apr 02 13:38:22 KST 2013">if distance(c00,cBrown) <50.0:
+  print  "less"
+ else:
+  print "more"></command_run>
+<command_run time="Tue Apr 02 13:38:43 KST 2013">pRed2=getRed(p)*2></command_run>
+<menu_button time="Tue Apr 02 13:43:05 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 02 13:43:21 KST 2013">E:\programing\increasRed</file_saved>
+</file_created>
+<menu_button time="Tue Apr 02 13:43:22 KST 2013">Load Program</menu_button>
+<command_run time="Tue Apr 02 13:43:26 KST 2013">increas></command_run>
+<command_run time="Tue Apr 02 13:43:32 KST 2013">increasRed()></command_run>
+<menu_button time="Tue Apr 02 13:44:02 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 02 13:44:03 KST 2013">Undo</menu_button>
+<menu_button time="Tue Apr 02 13:44:34 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 02 13:44:34 KST 2013">E:\programing\increasRed</file_saved>
+</file_created>
+<command_run time="Tue Apr 02 13:44:36 KST 2013">increasRed()></command_run>
+<menu_button time="Tue Apr 02 13:45:11 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 02 13:45:11 KST 2013">E:\programing\increasRed</file_saved>
+</file_created>
+<command_run time="Tue Apr 02 13:45:12 KST 2013">increasRed()></command_run>
+<menu_button time="Tue Apr 02 13:45:29 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 02 13:45:29 KST 2013">E:\programing\increasRed</file_saved>
+</file_created>
+<command_run time="Tue Apr 02 13:45:30 KST 2013">increasRed()></command_run>
+<menu_button time="Tue Apr 02 13:49:22 KST 2013">Load Program</menu_button>
+<menu_button time="Tue Apr 02 13:49:24 KST 2013">Save Program As...</menu_button>
+<file_saved time="Tue Apr 02 13:49:39 KST 2013">E:\programing\removeRedEye</file_saved>
+</file_created>
+<menu_button time="Tue Apr 02 13:49:41 KST 2013">Load Program</menu_button>
+<menu_button time="Tue Apr 02 13:49:55 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 02 13:49:56 KST 2013">E:\programing\removeRedEye</file_saved>
+</file_created>
+<menu_button time="Tue Apr 02 13:50:00 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 02 13:50:01 KST 2013">E:\programing\removeRedEye</file_saved>
+</file_created>
+<menu_button time="Tue Apr 02 13:50:34 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 02 13:50:34 KST 2013">E:\programing\removeRedEye</file_saved>
+</file_created>
+<menu_button time="Tue Apr 02 13:50:58 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 02 13:50:58 KST 2013">E:\programing\removeRedEye</file_saved>
+</file_created>
+<command_run time="Tue Apr 02 13:51:03 KST 2013">lab5_1()></command_run>
+<menu_button time="Tue Apr 02 13:51:24 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 02 13:51:25 KST 2013">E:\programing\removeRedEye</file_saved>
+</file_created>
+<command_run time="Tue Apr 02 13:51:25 KST 2013">lab5_1()></command_run>
+<menu_button time="Tue Apr 02 13:51:38 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 02 13:51:39 KST 2013">E:\programing\removeRedEye</file_saved>
+</file_created>

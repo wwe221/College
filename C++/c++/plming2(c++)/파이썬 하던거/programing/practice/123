@@ -1,0 +1,16 @@
+def lab4_1():
+  head=makePicture(getMediaPath('barbara.jpg'))
+  canvas=makePicture(getMediaPath('7inX95in.jpg'))
+  sx=45
+  for targetX in range(100,100+((200-45)/2)):
+    sy=25
+    for targetY in range(100,100+((200-25)/2)):
+      color=getColor(getPixel(head,sX,sY))
+      setColor(getPixel(canvas,targetX,targetY),colo)
+      sourceY=sourceY+2
+    sourceX=sourceX+2
+    show(head)
+    show(canvas)
+    return canvas
+
+

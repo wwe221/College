@@ -1,0 +1,10 @@
+import java.util.Scanner;
+public class ConcertReservationDriver {
+	public static void main(String[] args)
+	{	int in;
+		Scanner scan= new Scanner(System.in);
+		in = scan.nextInt();
+		System.out.println("예약(1) 조회(2) 취소(3) 끝내기(4)");
+		ConcertReservation CR=new ConcertReservation(in);
+	}
+}

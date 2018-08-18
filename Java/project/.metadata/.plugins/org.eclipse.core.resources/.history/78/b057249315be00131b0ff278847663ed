@@ -1,0 +1,10 @@
+
+public class TringleDriver {
+
+	public static void main(String [] args)
+	{
+		Tringle tri = new Tringle(3,4);
+		System.out.println(tri.getarea());
+		
+	}
+}

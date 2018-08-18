@@ -1,0 +1,20 @@
+
+public class student {
+	private String name,address,major;
+	private int SID;
+	private double Gpa;
+
+	public void student(String n, int id, String add,String maj,double gpa;)
+		{name=n;	SID=id; address=add; major=maj;Gpa=gpa;}
+		
+
+
+
+
+
+
+
+
+
+
+}

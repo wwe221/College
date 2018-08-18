@@ -1,0 +1,157 @@
+<file_created time="Wed Jun 05 16:31:33 KST 2013">
+<command_run time="Wed Jun 05 16:31:51 KST 2013">earth=makeWorld()></command_run>
+<command_run time="Wed Jun 05 16:32:00 KST 2013">davi=makeTurtle(earth)></command_run>
+<command_run time="Wed Jun 05 16:35:36 KST 2013">s1=SmartTurtle(earth)></command_run>
+<menu_button time="Wed Jun 05 16:35:40 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 16:35:45 KST 2013">C:\Documents and Settings\P70\Õ Tt\123</file_saved>
+</file_created>
+<menu_button time="Wed Jun 05 16:35:51 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 16:35:51 KST 2013">C:\Documents and Settings\P70\Õ Tt\123</file_saved>
+</file_created>
+<command_run time="Wed Jun 05 16:35:53 KST 2013">s1=SmartTurtle(earth)></command_run>
+<command_run time="Wed Jun 05 16:36:12 KST 2013">s1 drawSquare()></command_run>
+<command_run time="Wed Jun 05 16:36:25 KST 2013">s1.drawSquare()></command_run>
+<command_run time="Wed Jun 05 16:36:47 KST 2013">s1.drawSquare()></command_run>
+<menu_button time="Wed Jun 05 16:37:14 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 16:37:14 KST 2013">C:\Documents and Settings\P70\Õ Tt\123</file_saved>
+</file_created>
+<command_run time="Wed Jun 05 16:37:14 KST 2013">s1.drawSquare()></command_run>
+<command_run time="Wed Jun 05 16:37:18 KST 2013">s1=SmartTurtle(earth)></command_run>
+<menu_button time="Wed Jun 05 16:37:19 KST 2013">Load Program</menu_button>
+<command_run time="Wed Jun 05 16:37:20 KST 2013">s1=SmartTurtle(earth)></command_run>
+<command_run time="Wed Jun 05 16:37:22 KST 2013">s1.drawSquare()></command_run>
+<menu_button time="Wed Jun 05 16:42:14 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 16:42:15 KST 2013">C:\Documents and Settings\P70\Õ Tt\123</file_saved>
+</file_created>
+<menu_button time="Wed Jun 05 16:44:07 KST 2013">Save Program As...</menu_button>
+<file_saved time="Wed Jun 05 16:44:24 KST 2013">E:\plming\programing\practice\new\class</file_saved>
+</file_created>
+<menu_button time="Wed Jun 05 16:44:25 KST 2013">Load Program</menu_button>
+<command_run time="Wed Jun 05 16:45:20 KST 2013">setMediaPath()></command_run>
+<command_run time="Wed Jun 05 16:46:08 KST 2013">s1=slide(getMediaPath('babara.jpg'),getMediaPath('basson-c4.wav'))></command_run>
+<menu_button time="Wed Jun 05 16:46:28 KST 2013">Load Program</menu_button>
+<command_run time="Wed Jun 05 16:46:38 KST 2013">s1=slide(getMediaPath('babara.jpg'),getMediaPath('basson-c4.wav'))></command_run>
+<menu_button time="Wed Jun 05 16:47:03 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 16:47:03 KST 2013">E:\plming\programing\practice\new\class</file_saved>
+</file_created>
+<command_run time="Wed Jun 05 16:47:24 KST 2013">s1=slide(getMediaPath('barbara.jpg'),getMediaPath('basson-c4.wav'))></command_run>
+<command_run time="Wed Jun 05 16:47:37 KST 2013">s1=slide(getMediaPath('barbara.jpg'),getMediaPath('bassoon-c4.wav'))></command_run>
+<menu_button time="Wed Jun 05 16:47:39 KST 2013">Load Program</menu_button>
+<command_run time="Wed Jun 05 16:47:39 KST 2013">s1=slide(getMediaPath('barbara.jpg'),getMediaPath('bassoon-c4.wav'))></command_run>
+<command_run time="Wed Jun 05 16:47:45 KST 2013">s1.show()></command_run>
+<menu_button time="Wed Jun 05 17:12:06 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 17:12:06 KST 2013">E:\plming\programing\practice\new\class</file_saved>
+</file_created>
+<menu_button time="Wed Jun 05 17:12:11 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 17:12:12 KST 2013">E:\plming\programing\practice\new\class</file_saved>
+</file_created>
+<command_run time="Wed Jun 05 17:12:19 KST 2013">s1=box()></command_run>
+<command_run time="Wed Jun 05 17:12:46 KST 2013">s1=slide(getMediaPath('barbara.jpg'),getMediaPath('bassoon-c4.wav'))></command_run>
+<command_run time="Wed Jun 05 17:12:49 KST 2013">b1=box()></command_run>
+<command_run time="Wed Jun 05 17:13:02 KST 2013">s1.draw()></command_run>
+<command_run time="Wed Jun 05 17:13:11 KST 2013">s1.draw(canvas)></command_run>
+<command_run time="Wed Jun 05 17:13:24 KST 2013">s1.draw(earth)></command_run>
+<command_run time="Wed Jun 05 17:14:01 KST 2013">canvas=makeWorld()></command_run>
+<command_run time="Wed Jun 05 17:14:18 KST 2013">b1=box()></command_run>
+<command_run time="Wed Jun 05 17:14:46 KST 2013">b1.draw(canvas)></command_run>
+<menu_button time="Wed Jun 05 17:15:06 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 17:15:06 KST 2013">E:\plming\programing\practice\new\class</file_saved>
+</file_created>
+<command_run time="Wed Jun 05 17:15:07 KST 2013">b1.draw(canvas)></command_run>
+<menu_button time="Wed Jun 05 17:15:14 KST 2013">Load Program</menu_button>
+<command_run time="Wed Jun 05 17:15:15 KST 2013">b1.draw(canvas)></command_run>
+<menu_button time="Wed Jun 05 17:15:32 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 17:15:32 KST 2013">E:\plming\programing\practice\new\class</file_saved>
+<file_opened time="Wed Jun 05 17:15:41 KST 2013">E:\plming\programing\practice\new\class</file_opened>
+<menu_button time="Wed Jun 05 17:15:42 KST 2013">Load Program</menu_button>
+<command_run time="Wed Jun 05 17:15:46 KST 2013">b1=box()></command_run>
+<command_run time="Wed Jun 05 17:15:52 KST 2013">b1.draw(canvas)></command_run>
+<menu_button time="Wed Jun 05 17:16:00 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 17:16:00 KST 2013">E:\plming\programing\practice\new\class</file_saved>
+<file_opened time="Wed Jun 05 17:16:12 KST 2013">E:\plming\programing\practice\new\class</file_opened>
+<menu_button time="Wed Jun 05 17:16:13 KST 2013">Load Program</menu_button>
+<command_run time="Wed Jun 05 17:16:17 KST 2013">b1=box()></command_run>
+<command_run time="Wed Jun 05 17:16:20 KST 2013">b1.draw(canvas)></command_run>
+<command_run time="Wed Jun 05 17:17:14 KST 2013">canvas=makePicture(getMediaPath('7inX95in.jpg')></command_run>
+<command_run time="Wed Jun 05 17:17:15 KST 2013">canvas=makePicture(getMediaPath('7inX95in.jpg'))></command_run>
+<menu_button time="Wed Jun 05 17:17:17 KST 2013">Load Program</menu_button>
+<command_run time="Wed Jun 05 17:17:18 KST 2013">canvas=makePicture(getMediaPath('7inX95in.jpg'))></command_run>
+<command_run time="Wed Jun 05 17:17:21 KST 2013">b1.draw(canvas)></command_run>
+<menu_button time="Wed Jun 05 17:19:49 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Jun 05 17:20:18 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 17:20:18 KST 2013">E:\plming\programing\practice\new\class</file_saved>
+</file_created>
+<menu_button time="Wed Jun 05 17:20:34 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 17:20:34 KST 2013">E:\plming\programing\practice\new\class</file_saved>
+</file_created>
+<command_run time="Wed Jun 05 17:20:46 KST 2013">b4=box(red,sz)></command_run>
+<command_run time="Wed Jun 05 17:20:55 KST 2013">b4=box(red,50)></command_run>
+<command_run time="Wed Jun 05 17:21:03 KST 2013">b4.draw(canvas)></command_run>
+<menu_button time="Wed Jun 05 17:21:07 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Jun 05 17:22:38 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 17:22:38 KST 2013">E:\plming\programing\practice\new\class</file_saved>
+</file_created>
+<menu_button time="Wed Jun 05 17:22:43 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 17:22:43 KST 2013">E:\plming\programing\practice\new\class</file_saved>
+</file_created>
+<command_run time="Wed Jun 05 17:22:50 KST 2013">a1=animal()></command_run>
+<command_run time="Wed Jun 05 17:22:56 KST 2013">a1=animal(dog)></command_run>
+<command_run time="Wed Jun 05 17:23:02 KST 2013">a1=animal(ani)></command_run>
+<menu_button time="Wed Jun 05 17:23:06 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Jun 05 17:24:16 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 17:24:16 KST 2013">E:\plming\programing\practice\new\class</file_saved>
+</file_created>
+<command_run time="Wed Jun 05 17:24:25 KST 2013">a1=animal('ani')></command_run>
+<command_run time="Wed Jun 05 17:24:31 KST 2013">a1=talk()></command_run>
+<command_run time="Wed Jun 05 17:24:40 KST 2013">a1.talk()></command_run>
+<menu_button time="Wed Jun 05 17:26:52 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 17:26:52 KST 2013">E:\plming\programing\practice\new\class</file_saved>
+</file_created>
+<menu_button time="Wed Jun 05 17:26:58 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 17:26:58 KST 2013">E:\plming\programing\practice\new\class</file_saved>
+</file_created>
+<command_run time="Wed Jun 05 17:27:16 KST 2013">c1=cat(animal(catt))></command_run>
+<command_run time="Wed Jun 05 17:27:23 KST 2013">c1=Cat(animal('catt'))></command_run>
+<command_run time="Wed Jun 05 17:27:28 KST 2013">c1.talk()></command_run>
+<menu_button time="Wed Jun 05 17:28:52 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 17:28:52 KST 2013">E:\plming\programing\practice\new\class</file_saved>
+</file_created>
+<command_run time="Wed Jun 05 17:29:20 KST 2013">d1=Dog(animal('ddog'))></command_run>
+<command_run time="Wed Jun 05 17:29:23 KST 2013">d1.talk()></command_run>
+<command_run time="Wed Jun 05 17:32:41 KST 2013">animalList=[c1,d1,a1]></command_run>
+<command_run time="Wed Jun 05 17:32:55 KST 2013">for a in animalList:
+  a.talk()></command_run>
+<command_run time="Wed Jun 05 17:34:17 KST 2013">a1.name></command_run>
+<command_run time="Wed Jun 05 17:34:20 KST 2013">d1.name></command_run>
+<command_run time="Wed Jun 05 17:34:24 KST 2013">c1.name></command_run>
+<menu_button time="Wed Jun 05 17:36:29 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 17:36:30 KST 2013">E:\plming\programing\practice\new\class</file_saved>
+</file_created>
+<command_run time="Wed Jun 05 17:36:41 KST 2013">c1=Cat('mimi')></command_run>
+<command_run time="Wed Jun 05 17:37:03 KST 2013">c1.getName()></command_run>
+<menu_button time="Wed Jun 05 17:37:20 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 17:37:21 KST 2013">E:\plming\programing\practice\new\class</file_saved>
+</file_created>
+<menu_button time="Wed Jun 05 17:37:26 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Jun 05 17:37:27 KST 2013">E:\plming\programing\practice\new\class</file_saved>
+<file_opened time="Thu Jun 06 12:25:07 KST 2013">F:\plming\programing\practice\new\class</file_opened>
+<menu_button time="Thu Jun 06 12:26:42 KST 2013">Load Program</menu_button>
+<menu_button time="Thu Jun 06 12:27:49 KST 2013">Open Program</menu_button>
+<command_run time="Thu Jun 06 12:29:55 KST 2013">t1=SmartTutle()></command_run>
+<command_run time="Thu Jun 06 12:30:02 KST 2013">t1=SmartTurtle()></command_run>
+<command_run time="Thu Jun 06 12:30:19 KST 2013">earth=makeWorld()></command_run>
+<command_run time="Thu Jun 06 12:30:39 KST 2013">></command_run>
+<command_run time="Thu Jun 06 12:30:50 KST 2013">t1=makeTurtle(earth)></command_run>
+<command_run time="Thu Jun 06 12:31:13 KST 2013">SmartTurtle(t1)></command_run>
+<command_run time="Thu Jun 06 12:31:27 KST 2013">SmartTurtle(Turtle)></command_run>
+<command_run time="Thu Jun 06 12:31:35 KST 2013">SmartTurtle(earth)></command_run>
+<command_run time="Thu Jun 06 12:31:46 KST 2013">t1.drawSquare()></command_run>
+<command_run time="Thu Jun 06 12:32:10 KST 2013">t1=SmartTurtle(earth)></command_run>
+<command_run time="Thu Jun 06 12:32:18 KST 2013">t1.drawSquare></command_run>
+<command_run time="Thu Jun 06 12:32:19 KST 2013">t1.drawSquare()></command_run>
+<menu_button time="Thu Jun 06 12:34:03 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Jun 06 12:34:06 KST 2013">F:\plming\programing\practice\new\class</file_saved>
+</file_created>
+<menu_button time="Thu Jun 06 12:34:26 KST 2013">Load Program</menu_button>
+<file_saved time="Thu Jun 06 12:34:26 KST 2013">F:\plming\programing\practice\new\class</file_saved>
+</file_created>

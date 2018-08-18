@@ -1,0 +1,15 @@
+﻿빌드 시작: 2017-03-08 오후 1:56:35
+     1>2 노드의 "K:\코딩 복습\1학년\Jaguuu\project\tada\tada\tada.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>k:\코딩 복습\1학년\jaguuu\project\tada\tada\main.cpp(26): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"K:\코딩 복습\1학년\Jaguuu\project\tada\Debug\tada.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"K:\코딩 복습\1학년\Jaguuu\project\tada\Debug\tada.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"K:\코딩 복습\1학년\Jaguuu\project\tada\Debug\tada.lib" /MACHINE:X86 Debug\main.obj
+         Debug\stack.obj
+         tada.vcxproj -> K:\코딩 복습\1학년\Jaguuu\project\tada\Debug\tada.exe
+     1>"K:\코딩 복습\1학년\Jaguuu\project\tada\tada\tada.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.70

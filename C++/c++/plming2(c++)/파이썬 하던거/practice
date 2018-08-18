@@ -1,0 +1,15 @@
+def lab8_1():
+  c4=makeSound(getMediaPath('bassoon-c4.wav'))
+  e4=makeSound(getMediaPath('bassoon-e4.wav'))
+  g4=makeSound(getMediaPath('bassoon-g4.wav'))
+  mysound=addSounds(c4,e4)
+  comboSound=addSounds(mysound,g4)
+  explore(comboSound)
+  play(comboSound)
+def addSounds(s1,s2):
+  for i in range(0,getLength(s1)):
+    vc4=getSampleValueAt(s1,i)
+    ve4=getSampleValueAt(s2,i)
+    sum=vc4+ve4
+    setSampleValueAt(s1,i,sum)
+  return s1

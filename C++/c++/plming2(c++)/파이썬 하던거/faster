@@ -1,0 +1,10 @@
+def double(sound):
+  source=makeSound(sound)
+  len=getLength(source)/2+1
+  target=makeEmptySound(len)
+  targetIndex=0
+  for sourceIndex in range(0,getLength(source),2):
+    sourceValue=getSampleValueAt(source,sourceIndex)
+    setSampleValueAt(target,targetIndex,sourceValue)
+  targetIndex=targetIndex+1
+  return target

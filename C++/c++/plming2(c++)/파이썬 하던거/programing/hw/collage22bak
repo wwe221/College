@@ -1,0 +1,158 @@
+pic1=makePicture(getMediaPath('waterfall1.jpg'))
+pic2=makePicture(getMediaPath('pool.jpg'))
+pic3=makePicture(getMediaPath('car.jpg'))
+pic4=makePicture(getMediaPath('street.jpg'))
+canvas=makePicture(getMediaPath('canvas.jpg'))
+
+def main():
+  mirrorAll()
+  colorAll()
+  collage()
+def mirrorAll():
+  mirror1(pic1)
+  mirror2(pic2)
+  mirror3(pic3)
+  mirror4(pic4)
+def colorAll():
+  color1(pic1)
+  color2(pic2)
+  color3(pic3)
+  color4(pic4)
+def mirror1(pic1):
+  mp=getHeight(pic1)/2
+  height=getHeight(pic1)
+  for x in range(0,getWidth(pic1)):
+    for y in range(0,mp):
+      tP=getPixel(pic1,x,y)
+      bP=getPixel(pic1,x,height-y-1)
+      color=getColor(tP)
+      setColor(bP,color)
+  writePictureTo(pic1,"F:/programing/img/a1.jpg")
+  repaint(pic1)
+  
+def mirror2(pic2):
+  mp1=getWidth(pic2)/2
+  width=getWidth(pic2)
+  for x in range(0,mp1):
+    for y in range(0,getHeight(pic2)):
+      tP=getPixel(pic2,width-mp1-1,y)
+      bP=getPixel(pic2,x,y)
+      color=getColor(tP)
+      setColor(bP,color)
+  writePictureTo(pic2,"F:/programing/img/b1.jpg")
+  repaint(pic2)
+
+def mirror3(pic3):
+  mp=getHeight(pic3)/2
+  height=getHeight(pic3)
+  for x in range(0,getWidth(pic3)):
+    for y in range(0,mp):
+      tP=getPixel(pic3,x,y)
+      bP=getPixel(pic3,x,height-y-1)
+      color=getColor(tP)
+      setColor(bP,color)
+  writePictureTo(pic3,"F:/programing/img/c1.jpg")
+  repaint(pic3)
+
+def mirror4(pic4):
+  mp1=getWidth(pic4)/2
+  width=getWidth(pic4)
+  for x in range(0,mp1):
+    for y in range(0,getHeight(pic4)):
+      tP=getPixel(pic4,width-mp1-1,y)
+      bP=getPixel(pic4,x,y)
+      color=getColor(tP)
+      setColor(bP,color)
+  writePictureTo(pic4,"F:/programing/img/d1.jpg")
+  repaint(pic4)
+  
+def color1(pic1):
+  for x in getPixels(pic1):
+    r=getRed(x)
+    g=getGreen(x)
+    b=getBlue(x)
+    sc=makeColor(255-r,255-g,255-b)
+    setColor(x,sc)
+  writePictureTo(pic1,"F:/programing/img/a2.jpg")
+  repaint(pic1)
+  
+def color2(pic2):
+  for x in getPixels(pic2):
+    r=getRed(x)
+    g=getGreen(x)
+    b=getBlue(x)
+    sc=makeColor(255-r,255-g,255-b)
+    setColor(x,sc)
+  writePictureTo(pic2,"F:/programing/img/b2.jpg")
+  repaint(pic2)
+
+def color3(pic3):
+  orig = pic3
+  makeBw = pic3
+  for x in range(0,getWidth(orig)-1):
+    for y in range(0,getHeight(orig)-1):
+      here=getPixel(makeBw,x,y)
+      down=getPixel(orig,x,y+1)
+      right=getPixel(orig,x+1,y)
+      hereL=(getRed(here)+getGreen(here)+getBlue(here))/3
+      downL=(getRed(down)+getGreen(down)+getBlue(down))/3
+      rightL=(getRed(right)+getGreen(right)+getBlue(right))/3
+      if abs(hereL-downL)>10 and abs(hereL-rightL)>10:
+        setColor(here,black)
+      if abs(hereL-downL)<=10 and abs(hereL-rightL)<=10:
+        setColor(here,white)
+  writePictureTo(pic3,"F:/programing/img/c2.jpg")
+  repaint(pic3)
+
+def color4(pic4):
+  for x in getPixels(pic4):
+    blackOrWhite=(getRed(x)+getGreen(x)+getBlue(x))/3
+    setColor(x,makeColor(blackOrWhite,blackOrWhite,blackOrWhite))
+  writePictureTo(pic4,"F:/programing/img/d2.jpg")
+  repaint(pic4)
+  
+
+def copyPic(source,target,targX,targY):
+  targetX=targX
+  for sourceX in range(0,getWidth(pic1)):
+    targetY=targY
+    for sourceY in range(0,getHeight(pic1)):
+      px=getPixel(source,sourceX,sourceY)
+      tx=getPixel(target,targetX,targetY)
+      setColor(tx,getColor(px))
+      targetY=targetY + 1
+    targetX=targetX + 1
+      
+def collage():
+  aa=makePicture(getMediaPath('waterfall1.jpg'))
+  bb=makePicture(getMediaPath('pool.jpg'))
+  cc=makePicture(getMediaPath('car.jpg'))
+  dd=makePicture(getMediaPath('street.jpg'))
+  #pic1
+  a1=makePicture(getMediaPath("a1.jpg"))
+  a2=makePicture(getMediaPath("a2.jpg"))  
+  #pic2
+  b1=makePicture(getMediaPath("b1.jpg"))
+  b2=makePicture(getMediaPath("b2.jpg"))    
+  #pic3
+  c1=makePicture(getMediaPath("c1.jpg"))
+  c2=makePicture(getMediaPath("c2.jpg"))  
+  #pic4
+  d1=makePicture(getMediaPath("d1.jpg"))
+  d2=makePicture(getMediaPath("d2.jpg"))
+  copyPic(aa,canvas,0,0)
+  copyPic(a1,canvas,getWidth(canvas)/3,0)
+  copyPic(a2,canvas,getWidth(canvas)/3*2,0)
+  copyPic(bb,canvas,0,getHeight(canvas)/4)
+  copyPic(b1,canvas,getWidth(canvas)/3,getHeight(canvas)/4)
+  copyPic(b2,canvas,getWidth(canvas)/3*2,getHeight(canvas)/4)
+  copyPic(cc,canvas,0,getHeight(canvas)/4*2)
+  copyPic(c1,canvas,getWidth(canvas)/3,getHeight(canvas)/4*2)
+  copyPic(c2,canvas,getWidth(canvas)/3*2,getHeight(canvas)/4*2)
+  copyPic(dd,canvas,0,getHeight(canvas)/4*3)
+  copyPic(d1,canvas,getWidth(canvas)/3,getHeight(canvas)/4*3)
+  copyPic(d2,canvas,getWidth(canvas)/3*2,getHeight(canvas)/4*3)
+
+  writePictureTo(canvas,"F:/programing/img/Collage.jpg")
+  explore(canvas)
+  return canvas

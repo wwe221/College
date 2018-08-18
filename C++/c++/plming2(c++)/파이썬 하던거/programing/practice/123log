@@ -1,0 +1,55 @@
+<file_created time="Wed Mar 27 17:41:59 KST 2013">
+<command_run time="Wed Mar 27 17:44:27 KST 2013">head=makePicture(getMediaPath('barbara.jpg'))></command_run>
+<command_run time="Wed Mar 27 17:44:34 KST 2013">explore(head)></command_run>
+<menu_button time="Wed Mar 27 17:47:52 KST 2013">Save Program</menu_button>
+<file_saved time="Wed Mar 27 17:47:59 KST 2013">E:\lab4_1</file_saved>
+</file_created>
+<menu_button time="Wed Mar 27 17:48:01 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 17:49:07 KST 2013">Open Program</menu_button>
+<file_saved time="Wed Mar 27 17:49:10 KST 2013">E:\lab4_1</file_saved>
+<file_opened time="Wed Mar 27 18:04:05 KST 2013">E:\lab4_1</file_opened>
+<command_run time="Wed Mar 27 18:09:20 KST 2013">samgak()></command_run>
+<menu_button time="Wed Mar 27 18:09:43 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Mar 27 18:09:44 KST 2013">E:\lab4_1</file_saved>
+</file_created>
+<command_run time="Wed Mar 27 18:09:45 KST 2013">samgak()></command_run>
+<menu_button time="Wed Mar 27 18:09:58 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Mar 27 18:09:59 KST 2013">E:\lab4_1</file_saved>
+</file_created>
+<command_run time="Wed Mar 27 18:10:00 KST 2013">samgak()></command_run>
+<command_run time="Wed Mar 27 18:11:28 KST 2013">head=makePicture(getMediaPath('barbara.jpg'))></command_run>
+<command_run time="Wed Mar 27 18:11:35 KST 2013">explore(head)></command_run>
+<command_run time="Wed Mar 27 18:11:59 KST 2013">canvas=makePicture(getMediaPath('7inX95in.jpg'))></command_run>
+<command_run time="Wed Mar 27 18:12:04 KST 2013">explore(canvas)></command_run>
+<menu_button time="Wed Mar 27 18:33:56 KST 2013">Undo</menu_button>
+<menu_button time="Wed Mar 27 18:33:57 KST 2013">Undo</menu_button>
+<menu_button time="Wed Mar 27 18:33:57 KST 2013">Undo</menu_button>
+<menu_button time="Wed Mar 27 18:33:57 KST 2013">Undo</menu_button>
+<menu_button time="Wed Mar 27 18:33:58 KST 2013">Undo</menu_button>
+<menu_button time="Wed Mar 27 18:33:58 KST 2013">Undo</menu_button>
+<menu_button time="Wed Mar 27 18:33:58 KST 2013">Undo</menu_button>
+<menu_button time="Wed Mar 27 18:33:58 KST 2013">Undo</menu_button>
+<menu_button time="Wed Mar 27 18:33:58 KST 2013">Undo</menu_button>
+<menu_button time="Wed Mar 27 18:33:59 KST 2013">Undo</menu_button>
+<menu_button time="Wed Mar 27 18:33:59 KST 2013">Undo</menu_button>
+<menu_button time="Wed Mar 27 18:33:59 KST 2013">Undo</menu_button>
+<menu_button time="Wed Mar 27 18:33:59 KST 2013">Undo</menu_button>
+<menu_button time="Wed Mar 27 18:33:59 KST 2013">Undo</menu_button>
+<menu_button time="Wed Mar 27 18:34:00 KST 2013">Undo</menu_button>
+<menu_button time="Wed Mar 27 18:34:00 KST 2013">Undo</menu_button>
+<menu_button time="Wed Mar 27 18:34:00 KST 2013">Undo</menu_button>
+<command_run time="Wed Mar 27 18:39:40 KST 2013">explore(canvas)></command_run>
+<command_run time="Wed Mar 27 18:39:45 KST 2013">explore(head)></command_run>
+<menu_button time="Wed Mar 27 19:02:21 KST 2013">Load Program</menu_button>
+<menu_button time="Wed Mar 27 19:02:25 KST 2013">Save Program As...</menu_button>
+<file_saved time="Wed Mar 27 19:02:30 KST 2013">E:\123</file_saved>
+</file_created>
+<menu_button time="Wed Mar 27 19:02:31 KST 2013">Load Program</menu_button>
+<command_run time="Wed Mar 27 19:02:37 KST 2013">lab4_1()></command_run>
+<menu_button time="Wed Mar 27 19:03:24 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Mar 27 19:03:24 KST 2013">E:\123</file_saved>
+</file_created>
+<command_run time="Wed Mar 27 19:03:26 KST 2013">lab4_1()></command_run>
+<menu_button time="Wed Mar 27 19:03:38 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Mar 27 19:03:39 KST 2013">E:\123</file_saved>
+</file_created>

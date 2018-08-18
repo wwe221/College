@@ -1,0 +1,47 @@
+1) www.sqlite.org접속
+sqlite-shell-win32-x86-xxxxxxx.zip 다운로드
+압축풀고
+c:\Program Files\sqlite3\에 복사 (디렉토리 없으면 생성)
+
+2) 아래 테이블 myddl.sql로 저장
+테이블명에서 order와 같은 예약어는 제외 (jumun으로 바꿈)
+CREATE TABLE product (
+  pid INTEGER NOT NULL PRIMARY KEY,
+  p_name VARCHAR(50),
+  p_price INTEGER );
+CREATE TABLE customer (
+  cid INTEGER NOT NULL PRIMARY KEY,
+  c_name VARCHAR(50) );
+CREATE TABLE jumun (
+  cid INTEGER NOT NULL REFERENCES customer,
+  oid INTEGER NOT NULL REFERENCES orderItem,
+  PRIMARY KEY (cid, oid) );
+CREATE TABLE orderItem (
+  oid INTEGER NOT NULL PRIMARY KEY,
+  pid INTEGER NOT NULL REFERENCES product );
+INSERT INTO product VALUES (1,'computer',1000);
+INSERT INTO customer VALUES (1,'Kim');
+INSERT INTO jumun VALUES (1,1);
+INSERT INTO orderItem VALUES (1,1);
+
+3) 보조프로그램에서 명령프롬프트
+cd c:\Program Files\sqlite3
+c:\Program Files\sqlite3>sqlite3.exe my.db < myddl.sql
+
+4) c:\Program Files\sqlite3>dir (my.db확인)
+
+5) Python에서
+>>> from sqlite3 import dbapi2 as sql
+>>> import os
+>>> os.getcwd()
+'C:\\Program Files\\Python2.7.3'
+>>> os.chdir('..')
+>>> os.chdir('./sqlite3')
+>>> os.getcwd()
+'C:\\Program Files\\sqlite3'
+>>> con=sql.connect('my.db')
+>>> cur=con.cursor()
+>>> cur.execute("select * from product")
+<sqlite3.Cursor object at 0x01F084E0>
+>>> cur.fetchall()
+[(1, u'computer', 1000)]

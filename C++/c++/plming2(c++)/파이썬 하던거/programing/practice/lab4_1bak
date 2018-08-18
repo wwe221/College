@@ -1,0 +1,11 @@
+def lab4_1():
+  head=makePicture(getMediaPath('barbara.jpg'))
+  canvas=makePicture(getMediaPath('7inX95in.jpg'))
+
+
+
+def samgak():
+  for y in range(0,5):
+    for x in range(0,1+y):
+      print "x*y",
+      print "x"

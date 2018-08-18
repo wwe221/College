@@ -1,0 +1,187 @@
+#include<stdio.h>       
+#include<stdlib.h>
+#include<string.h>
+struct people
+{
+        char name[15];        
+        char num[30];        
+        struct people *next; 
+};
+struct people *root=0; 
+int input(char *pname, char *n)
+{
+        printf("\n이름 : ");
+        scanf("%s", pname);
+        printf("전화번호 : ");
+        scanf("%s", n);
+        return 0;
+}
+
+void add(char *pname, char *n) 
+{
+        struct people *p;   
+        struct people *pnew; 
+        p=root;
+ 
+        while(p->next)  
+         p=p->next;    
+              
+        pnew=(struct people*)malloc(sizeof(struct people)); 
+        strcpy(pnew->name, pname);       
+        strcpy(pnew->num, n);               
+        pnew->next=NULL;                   
+        p->next=pnew;                         
+}
+void find()
+{
+        struct people *p;  
+        char fname[15];   
+        printf("찾을 이름 입력 : ");
+        scanf("%s", fname);
+        p=root;            
+        while(1)     
+        {
+                if(strcmp(p->name, fname)==0)
+                {
+                        printf("같은이름발견\n");
+                        printf("이름 : %s, 전화번호 : %s\n", p->name, p->num);
+                        return;      // 찾고 종료
+                }
+  
+                else if(p->next==NULL)
+                {
+                        printf("찾는 이름이 없습니다.\n"); 
+                        return; 
+                }
+                p=p->next;    
+        }
+        printf("\n");
+}
+
+
+void del()
+{  
+        struct people *p ,*temp, *before;
+        char dname[15]; 
+        printf("삭제할 이름 입력 : ");
+        scanf("%s", dname);
+        p=root;        
+        p=p->next;     
+        before = root; 
+        while(p!=0)
+        {
+                if(strcmp(p->name, dname)==0)
+                {
+                        temp=p;      
+                        before->next = p->next; 
+                        p = before;   
+                        free(temp);   
+                        printf("%s : 삭제함", dname);
+                        return;
+                }
+                before = p;     
+                p = p->next;    
+        }
+} 
+
+void display()
+{
+        struct people *p;
+        p=root;
+        p=p->next;
+        while(p!=0)   
+        {
+                printf("\n이름: %s  전화번호: %s", p->name, p->num);
+                p=p->next;
+        }
+        printf("\n");
+}
+void sort(char *pname, char *n)
+{
+        struct people *p;   
+        struct people *pnew;
+        struct people *before;
+        p=root->next;      
+        before = root;      
+        pnew=(struct people*)malloc(sizeof(struct people)); 
+        strcpy(pnew->name, pname);  
+        strcpy(pnew->num, n);       
+        if(root->next == NULL)     
+        {
+                root->next = pnew;
+                pnew->next = NULL;
+                return;
+        }
+        while(1)   
+        {
+                if(strcmp(pnew->name,p->name) < 0 )
+                {
+                        pnew->next = p;
+                        before->next = pnew;
+                        return;
+                }
+                if(p->next==NULL)
+                {   
+                        pnew->next = NULL;      
+                        p->next = pnew;
+                        return;
+                }
+                before = p;     
+                p = p->next;    
+        }
+}
+ 
+int main()
+{
+        
+        int menu;   // 메뉴
+        char name[15];  // 이름
+        char num[30];  // 번호
+
+        root=(struct people*)malloc(sizeof(struct people));
+        strcpy(root->name, "ROOT");    
+        strcpy(root->num, "ROOT");   
+        root->next=NULL;     
+        while(1)
+        {
+                printf("\n");
+                printf("--------------\n");
+                printf("-  1. 삽입   -\n");
+                printf("-  2. 삭제   -\n");
+                printf("-  3. 검색   -\n");
+                printf("-  4. 출력   -\n");
+                printf("-  5. 정렬   -\n");
+                printf("-  6. 종료   -\n");
+                printf("--------------\n");
+                printf("선택 : ");
+                scanf("%d", &menu);
+
+                switch(menu)
+                {
+                       case 1:  // 삽입
+                               input(name, num);
+                               add(name, num);
+                               break;
+                       case 2:  //삭제 
+                               del();
+                               break;
+                       case 3:  // 검색
+                               find();
+                               break;
+                       case 4:  // 출력
+                               display();
+                               break; 
+                       case 5:  // 정렬
+                               input(name, num);
+                               sort(name,num);
+                               break;
+                       case 6:  // 종료
+                               puts("종료합니다.");
+                               return 0;
+                              default:
+                               puts("잘못된 입력!");
+                               break;
+                }
+        }
+ return 0;
+}

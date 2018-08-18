@@ -1,0 +1,9 @@
+
+public class studentdriver {
+	public static void main(String[] args){
+		student std = new student("Jason Snyder", "124 Streetrd.","Computer Science");
+		System.out.println(std.toString()+"\n\n");
+		student std1= new student("Dan Stern","54 Queens Blvd","Undeclard");
+		System.out.println(std1.toString()+"\n\n");
+	}
+}

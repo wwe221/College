@@ -1,0 +1,180 @@
+<file_created time="Tue Jun 04 12:27:30 KST 2013">
+<command_run time="Tue Jun 04 12:28:37 KST 2013">canvas=makePicture(getMediaPath('beach.jpg'))></command_run>
+<command_run time="Tue Jun 04 12:28:43 KST 2013">setMediaPath()></command_run>
+<command_run time="Tue Jun 04 12:28:56 KST 2013">canvas=makePicture(getMediaPath('beach.jpg'))></command_run>
+<menu_button time="Tue Jun 04 12:30:45 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 12:31:24 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<command_run time="Tue Jun 04 12:31:41 KST 2013">makeSunSet(canvas)></command_run>
+<command_run time="Tue Jun 04 12:31:55 KST 2013">makeSunset(canvas)></command_run>
+<command_run time="Tue Jun 04 12:32:23 KST 2013">canvas=makePicture(getMediaPath('beach.jpg'))></command_run>
+<command_run time="Tue Jun 04 12:32:30 KST 2013">makeSunset(canvas)></command_run>
+<menu_button time="Tue Jun 04 12:32:40 KST 2013">Load Program</menu_button>
+<command_run time="Tue Jun 04 12:33:25 KST 2013">import.os></command_run>
+<command_run time="Tue Jun 04 12:33:28 KST 2013">import os></command_run>
+<command_run time="Tue Jun 04 12:33:33 KST 2013">os.getcwd()></command_run>
+<command_run time="Tue Jun 04 12:33:41 KST 2013">getMediaPath()></command_run>
+<command_run time="Tue Jun 04 12:35:46 KST 2013">fn=getMediaPath()+'/'+Sunset.jpg></command_run>
+<command_run time="Tue Jun 04 12:36:00 KST 2013">fn=getMediaPath()+'/'+'Sunset.jpg'></command_run>
+<command_run time="Tue Jun 04 12:36:12 KST 2013">writePictureTo(canvas,fn)></command_run>
+<command_run time="Tue Jun 04 12:36:28 KST 2013">show canvas></command_run>
+<command_run time="Tue Jun 04 12:36:40 KST 2013">canvas=makePicture(getMediaPath('beach.jpg'))></command_run>
+<command_run time="Tue Jun 04 12:36:49 KST 2013">explore canvas></command_run>
+<command_run time="Tue Jun 04 12:36:59 KST 2013">fn></command_run>
+<command_run time="Tue Jun 04 12:37:30 KST 2013">fn=getMediaPath()+'\\'+'Sunset.jpg'></command_run>
+<command_run time="Tue Jun 04 12:37:32 KST 2013">fn></command_run>
+<command_run time="Tue Jun 04 12:37:39 KST 2013">fn=getMediaPath()+'Sunset.jpg'></command_run>
+<command_run time="Tue Jun 04 12:37:41 KST 2013">fn></command_run>
+<menu_button time="Tue Jun 04 12:38:13 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 12:38:15 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<menu_button time="Tue Jun 04 12:38:16 KST 2013">Load Program</menu_button>
+<command_run time="Tue Jun 04 12:38:31 KST 2013">makeSunset(canvas)></command_run>
+<command_run time="Tue Jun 04 12:38:48 KST 2013">makeSunset()></command_run>
+<menu_button time="Tue Jun 04 12:38:50 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 12:38:50 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<command_run time="Tue Jun 04 12:38:51 KST 2013">makeSunset()></command_run>
+<menu_button time="Tue Jun 04 12:39:08 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 12:39:08 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<command_run time="Tue Jun 04 12:39:09 KST 2013">makeSunset()></command_run>
+<menu_button time="Tue Jun 04 12:39:13 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 12:39:14 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<command_run time="Tue Jun 04 12:39:14 KST 2013">makeSunset()></command_run>
+<menu_button time="Tue Jun 04 12:39:47 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 12:39:47 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<menu_button time="Tue Jun 04 12:40:07 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 12:40:08 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<command_run time="Tue Jun 04 12:40:08 KST 2013">makeSunset()></command_run>
+<command_run time="Tue Jun 04 12:40:17 KST 2013">makeSunset(canvas)></command_run>
+<menu_button time="Tue Jun 04 12:40:31 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 12:40:31 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<menu_button time="Tue Jun 04 12:40:40 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 12:40:40 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<command_run time="Tue Jun 04 12:40:40 KST 2013">makeSunset(canvas)></command_run>
+<command_run time="Tue Jun 04 12:40:41 KST 2013">></command_run>
+<command_run time="Tue Jun 04 12:40:44 KST 2013">makeSunset()></command_run>
+<menu_button time="Tue Jun 04 12:40:45 KST 2013">Load Program</menu_button>
+<command_run time="Tue Jun 04 12:40:58 KST 2013">makeSunset(picture)></command_run>
+<menu_button time="Tue Jun 04 12:41:00 KST 2013">Load Program</menu_button>
+<menu_button time="Tue Jun 04 12:42:31 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 12:42:31 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<command_run time="Tue Jun 04 12:42:32 KST 2013">makeSunset(picture)></command_run>
+<menu_button time="Tue Jun 04 12:42:44 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 12:42:45 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<menu_button time="Tue Jun 04 12:43:49 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 12:43:49 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<command_run time="Tue Jun 04 12:43:52 KST 2013">makeSunset(p)></command_run>
+<command_run time="Tue Jun 04 12:43:54 KST 2013">makeSunset()></command_run>
+<command_run time="Tue Jun 04 12:43:56 KST 2013">makeSunset(canvas)></command_run>
+<menu_button time="Tue Jun 04 12:43:58 KST 2013">Load Program</menu_button>
+<command_run time="Tue Jun 04 12:44:08 KST 2013">canvas></command_run>
+<command_run time="Tue Jun 04 12:44:19 KST 2013">picture=getMediaPath('beach.jpg')></command_run>
+<command_run time="Tue Jun 04 12:44:21 KST 2013">canvas=makePicture(picture)></command_run>
+<command_run time="Tue Jun 04 12:44:24 KST 2013">makeSunset(canvas)></command_run>
+<menu_button time="Tue Jun 04 12:44:35 KST 2013">Load Program</menu_button>
+<menu_button time="Tue Jun 04 12:50:16 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 12:50:16 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<command_run time="Tue Jun 04 12:50:23 KST 2013">getMediaPath()></command_run>
+<command_run time="Tue Jun 04 12:50:38 KST 2013">show(canvas)></command_run>
+<command_run time="Tue Jun 04 12:50:59 KST 2013">makeSunset()></command_run>
+<command_run time="Tue Jun 04 12:51:01 KST 2013">makeSunset(canvas)></command_run>
+<menu_button time="Tue Jun 04 12:51:11 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 12:51:12 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<command_run time="Tue Jun 04 12:51:13 KST 2013">makeSunset(canvas)></command_run>
+<menu_button time="Tue Jun 04 12:51:22 KST 2013">Load Program</menu_button>
+<command_run time="Tue Jun 04 12:51:22 KST 2013">></command_run>
+<menu_button time="Tue Jun 04 12:52:22 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 12:52:23 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<command_run time="Tue Jun 04 12:53:16 KST 2013">makeSunset(picture)></command_run>
+<menu_button time="Tue Jun 04 12:53:29 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 12:53:30 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<menu_button time="Tue Jun 04 13:15:59 KST 2013">New Program</menu_button>
+<file_saved time="Tue Jun 04 13:16:00 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+<file_opened time="Tue Jun 04 13:25:57 KST 2013">F:\plming\programing\practice\new\sunset.py</file_opened>
+<command_run time="Tue Jun 04 13:26:19 KST 2013">getMediaPath()></command_run>
+<command_run time="Tue Jun 04 13:26:24 KST 2013">setMediaPath()></command_run>
+<command_run time="Tue Jun 04 13:26:29 KST 2013">setMediaPath()></command_run>
+<menu_button time="Tue Jun 04 13:26:33 KST 2013">Load Program</menu_button>
+<command_run time="Tue Jun 04 13:26:48 KST 2013">makeSunset()></command_run>
+<command_run time="Tue Jun 04 13:26:53 KST 2013">makeSunset(picture)></command_run>
+<command_run time="Tue Jun 04 13:26:56 KST 2013">makeSunset(pic)></command_run>
+<menu_button time="Tue Jun 04 13:27:08 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 13:27:08 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<command_run time="Tue Jun 04 13:27:13 KST 2013">makeSunset(picture)></command_run>
+<command_run time="Tue Jun 04 13:27:14 KST 2013">makeSunset(pic)></command_run>
+<menu_button time="Tue Jun 04 13:27:16 KST 2013">Load Program</menu_button>
+<menu_button time="Tue Jun 04 13:28:20 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 13:28:20 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<command_run time="Tue Jun 04 13:28:39 KST 2013">canvas=makePicture9getMediaPath('beach.jpg'))></command_run>
+<command_run time="Tue Jun 04 13:28:44 KST 2013">canvas=makePicture(getMediaPath('beach.jpg'))></command_run>
+<command_run time="Tue Jun 04 13:28:51 KST 2013">makeSunset(cansvas)></command_run>
+<command_run time="Tue Jun 04 13:29:03 KST 2013">makeSunset(cansvas)></command_run>
+<command_run time="Tue Jun 04 13:29:07 KST 2013">makeSunset(pic)></command_run>
+<menu_button time="Tue Jun 04 13:29:18 KST 2013">Load Program</menu_button>
+<menu_button time="Tue Jun 04 13:29:26 KST 2013">Undo</menu_button>
+<menu_button time="Tue Jun 04 13:30:24 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 13:30:25 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<menu_button time="Tue Jun 04 13:30:46 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 13:30:46 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<command_run time="Tue Jun 04 13:30:50 KST 2013">canvas=makePicture(getMediaPath('beach.jpg'))></command_run>
+<command_run time="Tue Jun 04 13:30:54 KST 2013">makeSunset(canvas)></command_run>
+<command_run time="Tue Jun 04 13:31:08 KST 2013">slowsunset()></command_run>
+<menu_button time="Tue Jun 04 13:31:30 KST 2013">Load Program</menu_button>
+<menu_button time="Tue Jun 04 13:31:49 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 13:31:49 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+<file_opened time="Tue Jun 04 13:34:23 KST 2013">F:\plming\programing\practice\new\sunset.py</file_opened>
+<menu_button time="Tue Jun 04 13:34:47 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 13:34:48 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<menu_button time="Tue Jun 04 13:35:17 KST 2013">Undo</menu_button>
+<menu_button time="Tue Jun 04 13:35:17 KST 2013">Undo</menu_button>
+<menu_button time="Tue Jun 04 13:35:17 KST 2013">Undo</menu_button>
+<menu_button time="Tue Jun 04 13:35:19 KST 2013">Undo</menu_button>
+<menu_button time="Tue Jun 04 13:35:21 KST 2013">Undo</menu_button>
+<menu_button time="Tue Jun 04 13:35:21 KST 2013">Undo</menu_button>
+<menu_button time="Tue Jun 04 13:35:23 KST 2013">Undo</menu_button>
+<menu_button time="Tue Jun 04 13:36:41 KST 2013">Undo</menu_button>
+<menu_button time="Tue Jun 04 13:36:46 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 13:36:46 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<command_run time="Tue Jun 04 13:36:55 KST 2013">slowsunset()></command_run>
+<menu_button time="Tue Jun 04 13:37:09 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 13:37:09 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<command_run time="Tue Jun 04 13:37:10 KST 2013">slowsunset()></command_run>
+<menu_button time="Tue Jun 04 13:38:46 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 13:38:46 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<menu_button time="Tue Jun 04 13:39:20 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 13:39:20 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>
+<command_run time="Tue Jun 04 13:40:03 KST 2013">aFrame=slowsunset()></command_run>
+<command_run time="Tue Jun 04 13:44:29 KST 2013">dirs=makeMovieFromInitialFile(aFrame)></command_run>
+<command_run time="Tue Jun 04 13:44:36 KST 2013">playMovie(dirs)></command_run>
+<menu_button time="Tue Jun 04 13:45:09 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 13:45:10 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+<file_opened time="Tue Jun 04 13:49:11 KST 2013">F:\plming\programing\practice\new\sunset.py</file_opened>
+<menu_button time="Tue Jun 04 13:49:16 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 13:49:17 KST 2013">F:\plming\programing\practice\new\sunset.py</file_saved>
+<file_opened time="Tue Jun 04 19:53:42 KST 2013">J:\plming\programing\practice\new\sunset.py</file_opened>
+<menu_button time="Tue Jun 04 19:54:47 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Jun 04 19:54:47 KST 2013">J:\plming\programing\practice\new\sunset.py</file_saved>
+</file_created>

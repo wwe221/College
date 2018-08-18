@@ -1,0 +1,117 @@
+<file_created time="Wed Apr 10 16:13:31 KST 2013">
+<command_run time="Wed Apr 10 16:14:07 KST 2013">setMediaPath()></command_run>
+<command_run time="Wed Apr 10 16:14:43 KST 2013">s=makeSound(getMediaPath('ariplane.wav')></command_run>
+<command_run time="Wed Apr 10 16:14:56 KST 2013">s=makeSound(getMediaPath('ariplane.wav'))></command_run>
+<command_run time="Wed Apr 10 16:15:01 KST 2013">s=makeSound(getMediaPath('airplane.wav'))></command_run>
+<command_run time="Wed Apr 10 16:15:06 KST 2013">explore(s)></command_run>
+<command_run time="Wed Apr 10 16:15:11 KST 2013">play(s)></command_run>
+<command_run time="Wed Apr 10 16:17:38 KST 2013">QPWOEIRTYASDF EIANSDFO IENWAIDS PAUSE></command_run>
+<command_run time="Wed Apr 10 16:18:20 KST 2013">getLength(s)></command_run>
+<command_run time="Wed Apr 10 16:20:02 KST 2013">s2=makeSound(getMediaPath('preamble.wav'))></command_run>
+<command_run time="Wed Apr 10 16:20:08 KST 2013">explore(s2)></command_run>
+<command_run time="Wed Apr 10 16:20:53 KST 2013">s2=makeSound(getMediaPath('around.wav'))></command_run>
+<command_run time="Wed Apr 10 16:21:09 KST 2013">getSample(s)></command_run>
+<command_run time="Wed Apr 10 16:21:42 KST 2013">s=makeSound(getMediaPath('preamble.wav'))></command_run>
+<command_run time="Wed Apr 10 16:23:03 KST 2013">getSampleValueAt(s,99)></command_run>
+<command_run time="Wed Apr 10 16:24:16 KST 2013">s99=getSampleValueAt(s,99)></command_run>
+<command_run time="Wed Apr 10 16:24:25 KST 2013">getSampleValueAt(s99)></command_run>
+<command_run time="Wed Apr 10 16:24:58 KST 2013">getSampleValue(s99)></command_run>
+<command_run time="Wed Apr 10 16:29:03 KST 2013">v0=getSampleValueAt(s,0)></command_run>
+<command_run time="Wed Apr 10 16:29:53 KST 2013">s0=getSampleObjectAt(s,0)></command_run>
+<command_run time="Wed Apr 10 16:30:08 KST 2013">setSampleValue(s0,v0*2)></command_run>
+<menu_button time="Wed Apr 10 16:30:16 KST 2013">Undo</menu_button>
+<menu_button time="Wed Apr 10 16:31:45 KST 2013">Save Program</menu_button>
+<file_saved time="Wed Apr 10 16:32:07 KST 2013">E:\programing\increaseVolume.py</file_saved>
+</file_created>
+<menu_button time="Wed Apr 10 16:32:10 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 10 16:32:11 KST 2013">E:\programing\increaseVolume.py</file_saved>
+</file_created>
+<command_run time="Wed Apr 10 16:32:21 KST 2013">increaseVolume()></command_run>
+<menu_button time="Wed Apr 10 16:32:29 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 10 16:32:30 KST 2013">E:\programing\increaseVolume.py</file_saved>
+</file_created>
+<command_run time="Wed Apr 10 16:32:31 KST 2013">increaseVolume()></command_run>
+<command_run time="Wed Apr 10 16:32:59 KST 2013">explore(increaseVolume())></command_run>
+<command_run time="Wed Apr 10 16:33:10 KST 2013">explore(s)></command_run>
+<menu_button time="Wed Apr 10 16:38:09 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 10 16:38:10 KST 2013">E:\programing\increaseVolume.py</file_saved>
+</file_created>
+<menu_button time="Wed Apr 10 16:38:30 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 10 16:38:31 KST 2013">E:\programing\increaseVolume.py</file_saved>
+</file_created>
+<command_run time="Wed Apr 10 16:38:31 KST 2013">explore(s)></command_run>
+<command_run time="Wed Apr 10 16:38:37 KST 2013">lab6_1()></command_run>
+<menu_button time="Wed Apr 10 16:39:18 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 10 16:39:18 KST 2013">E:\programing\increaseVolume.py</file_saved>
+</file_created>
+<command_run time="Wed Apr 10 16:39:28 KST 2013">lab6_1()></command_run>
+<menu_button time="Wed Apr 10 16:39:53 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 10 16:39:54 KST 2013">E:\programing\increaseVolume.py</file_saved>
+</file_created>
+<command_run time="Wed Apr 10 16:39:56 KST 2013">lab6_1()></command_run>
+<command_run time="Wed Apr 10 16:42:29 KST 2013">2^15></command_run>
+<command_run time="Wed Apr 10 16:42:37 KST 2013">2^15></command_run>
+<menu_button time="Wed Apr 10 16:46:17 KST 2013">New Program</menu_button>
+<file_saved time="Wed Apr 10 16:46:19 KST 2013">E:\programing\increaseVolume.py</file_saved>
+<file_opened time="Wed Apr 10 16:49:19 KST 2013">E:\programing\increaseVolume.py</file_opened>
+<menu_button time="Wed Apr 10 16:50:43 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 10 16:50:43 KST 2013">E:\programing\increaseVolume.py</file_saved>
+</file_created>
+<menu_button time="Wed Apr 10 16:50:45 KST 2013">Save Program</menu_button>
+<file_saved time="Wed Apr 10 16:50:46 KST 2013">E:\programing\increaseVolume.py</file_saved>
+</file_created>
+<command_run time="Wed Apr 10 16:50:50 KST 2013">findMax(s)></command_run>
+<menu_button time="Wed Apr 10 16:50:56 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 10 16:50:57 KST 2013">E:\programing\increaseVolume.py</file_saved>
+</file_created>
+<command_run time="Wed Apr 10 16:50:57 KST 2013">findMax(s)></command_run>
+<menu_button time="Wed Apr 10 16:51:08 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 10 16:51:09 KST 2013">E:\programing\increaseVolume.py</file_saved>
+</file_created>
+<command_run time="Wed Apr 10 16:51:10 KST 2013">findMax(s)></command_run>
+<menu_button time="Wed Apr 10 16:53:44 KST 2013">Undo</menu_button>
+<menu_button time="Wed Apr 10 16:54:15 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 10 16:54:16 KST 2013">E:\programing\increaseVolume.py</file_saved>
+</file_created>
+<menu_button time="Wed Apr 10 16:54:19 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 10 16:54:20 KST 2013">E:\programing\increaseVolume.py</file_saved>
+</file_created>
+<command_run time="Wed Apr 10 16:54:29 KST 2013">main()></command_run>
+<menu_button time="Wed Apr 10 16:54:40 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 10 16:54:41 KST 2013">E:\programing\increaseVolume.py</file_saved>
+</file_created>
+<command_run time="Wed Apr 10 16:54:41 KST 2013">main()></command_run>
+<menu_button time="Wed Apr 10 16:56:48 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 10 16:56:48 KST 2013">E:\programing\increaseVolume.py</file_saved>
+</file_created>
+<command_run time="Wed Apr 10 16:56:49 KST 2013">main()></command_run>
+<menu_button time="Wed Apr 10 16:57:51 KST 2013">Load Program</menu_button>
+<command_run time="Wed Apr 10 16:57:53 KST 2013">main()></command_run>
+<command_run time="Wed Apr 10 16:58:26 KST 2013">lab6_1()></command_run>
+<menu_button time="Wed Apr 10 16:59:43 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 10 16:59:43 KST 2013">E:\programing\increaseVolume.py</file_saved>
+</file_created>
+<menu_button time="Wed Apr 10 16:59:54 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 10 16:59:55 KST 2013">E:\programing\increaseVolume.py</file_saved>
+</file_created>
+<command_run time="Wed Apr 10 16:59:56 KST 2013">lab6_1()></command_run>
+<menu_button time="Wed Apr 10 17:00:22 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 10 17:00:23 KST 2013">E:\programing\increaseVolume.py</file_saved>
+</file_created>
+<command_run time="Wed Apr 10 17:00:24 KST 2013">lab6_1()></command_run>
+<command_run time="Wed Apr 10 17:11:45 KST 2013">lab6_1()></command_run>
+<command_run time="Wed Apr 10 17:39:09 KST 2013">findmax(s)></command_run>
+<command_run time="Wed Apr 10 17:39:19 KST 2013">s=makeSound(getMediaPath('preamble.wav'))></command_run>
+<command_run time="Wed Apr 10 17:39:20 KST 2013">findmax(s)></command_run>
+<command_run time="Wed Apr 10 17:39:25 KST 2013">findMax(s)></command_run>
+<menu_button time="Wed Apr 10 17:51:01 KST 2013">Save Program</menu_button>
+<file_saved time="Wed Apr 10 17:51:01 KST 2013">E:\programing\increaseVolume.py</file_saved>
+<file_opened time="Sun May 12 17:03:16 KST 2013">F:\programing\increaseVolume.py</file_opened>
+<menu_button time="Sun May 12 17:04:18 KST 2013">Load Program</menu_button>
+<file_saved time="Sun May 12 17:04:20 KST 2013">F:\programing\increaseVolume.py</file_saved>
+</file_created>
+<command_run time="Sun May 12 17:04:29 KST 2013">faster(s1)></command_run>
+<command_run time="Sun May 12 17:04:39 KST 2013">play(target)></command_run>
+<menu_button time="Sun May 12 17:04:49 KST 2013">Load Program</menu_button>
+<file_saved time="Sun May 12 17:04:49 KST 2013">F:\programing\increaseVolume.py</file_saved>
+</file_created>

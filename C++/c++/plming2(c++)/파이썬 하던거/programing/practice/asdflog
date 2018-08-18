@@ -1,0 +1,93 @@
+<file_created time="Tue Mar 26 13:09:07 KST 2013">
+<command_run time="Tue Mar 26 13:14:28 KST 2013">getMediaPath()></command_run>
+<command_run time="Tue Mar 26 13:14:34 KST 2013">getMediaPath()></command_run>
+<command_run time="Tue Mar 26 13:14:35 KST 2013">getMediaPath()></command_run>
+<command_run time="Tue Mar 26 13:14:36 KST 2013">getMediaPath()></command_run>
+<command_run time="Tue Mar 26 13:14:36 KST 2013">getMediaPath()></command_run>
+<command_run time="Tue Mar 26 13:14:36 KST 2013">getMediaPath()></command_run>
+<command_run time="Tue Mar 26 13:14:37 KST 2013">getMediaPath()></command_run>
+<command_run time="Tue Mar 26 13:14:37 KST 2013">getMediaPath()></command_run>
+<command_run time="Tue Mar 26 13:14:38 KST 2013">getMediaPath()></command_run>
+<command_run time="Tue Mar 26 13:14:38 KST 2013">getMediaPath()></command_run>
+<command_run time="Tue Mar 26 13:14:39 KST 2013">getMediaPath()></command_run>
+<command_run time="Tue Mar 26 13:14:39 KST 2013">getMediaPath()></command_run>
+<command_run time="Tue Mar 26 13:14:40 KST 2013">getMediaPath()></command_run>
+<command_run time="Tue Mar 26 13:14:48 KST 2013">setMediaPath()></command_run>
+<command_run time="Tue Mar 26 13:15:00 KST 2013">getMediaPath()></command_run>
+<command_run time="Tue Mar 26 13:15:32 KST 2013">setMediaPath()></command_run>
+<command_run time="Tue Mar 26 13:15:54 KST 2013">bardFile='babara.jpg'></command_run>
+<command_run time="Tue Mar 26 13:16:12 KST 2013">bard=makePicture(bardFile)></command_run>
+<command_run time="Tue Mar 26 13:16:28 KST 2013">bard=makePicture(getMediaPath(bardFile)></command_run>
+<command_run time="Tue Mar 26 13:16:36 KST 2013">bard=makePicture(getMediaPath(bardFile))></command_run>
+<command_run time="Tue Mar 26 13:16:45 KST 2013">barb=makePicture(getMediaPath(bardFile))></command_run>
+<command_run time="Tue Mar 26 13:16:46 KST 2013">barb=makePicture(getMediaPath(bardFile))></command_run>
+<command_run time="Tue Mar 26 13:16:56 KST 2013">bard=makePicture(getMediaPath(bardFile))></command_run>
+<command_run time="Tue Mar 26 13:17:17 KST 2013">barbFile='barbara.jpg'></command_run>
+<command_run time="Tue Mar 26 13:17:41 KST 2013">barb=makePicture(getMediaPath(barbFile))></command_run>
+<command_run time="Tue Mar 26 13:17:46 KST 2013">sohw(barb)></command_run>
+<command_run time="Tue Mar 26 13:17:55 KST 2013">show(barb)></command_run>
+<command_run time="Tue Mar 26 13:25:31 KST 2013">explore(brab)></command_run>
+<command_run time="Tue Mar 26 13:26:14 KST 2013">p=getPixel(barb,1,1)></command_run>
+<command_run time="Tue Mar 26 13:26:20 KST 2013">getRed(p)></command_run>
+<command_run time="Tue Mar 26 13:26:47 KST 2013">p11=getPixel(barb,1,1)></command_run>
+<command_run time="Tue Mar 26 13:26:52 KST 2013">getRed(p11)></command_run>
+<command_run time="Tue Mar 26 13:27:04 KST 2013">setRed(p11,255)></command_run>
+<command_run time="Tue Mar 26 13:28:15 KST 2013">r=getRed(p11)></command_run>
+<menu_button time="Tue Mar 26 13:31:34 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Mar 26 13:32:05 KST 2013">E:\\ø˜
+\4_1</file_saved>
+</file_created>
+<menu_button time="Tue Mar 26 13:32:06 KST 2013">Load Program</menu_button>
+<menu_button time="Tue Mar 26 13:32:17 KST 2013">Save Program</menu_button>
+<file_saved time="Tue Mar 26 13:32:17 KST 2013">E:\\ø˜
+\4_1</file_saved>
+</file_created>
+<menu_button time="Tue Mar 26 13:32:18 KST 2013">Save Program As...</menu_button>
+<file_saved time="Tue Mar 26 13:32:26 KST 2013">E:\\ø˜
+\decreasRed</file_saved>
+</file_created>
+<menu_button time="Tue Mar 26 13:32:30 KST 2013">Load Program</menu_button>
+<menu_button time="Tue Mar 26 13:32:37 KST 2013">Save Program As...</menu_button>
+<file_saved time="Tue Mar 26 13:32:41 KST 2013">E:\decreasRed</file_saved>
+</file_created>
+<menu_button time="Tue Mar 26 13:32:42 KST 2013">Load Program</menu_button>
+<menu_button time="Tue Mar 26 13:32:56 KST 2013">Save Program As...</menu_button>
+<file_saved time="Tue Mar 26 13:33:07 KST 2013">C:\Documents and Settings\manager\Õ Tt\decreasRed.py</file_saved>
+</file_created>
+<command_run time="Tue Mar 26 13:33:08 KST 2013">></command_run>
+<menu_button time="Tue Mar 26 13:33:09 KST 2013">Load Program</menu_button>
+<menu_button time="Tue Mar 26 13:33:32 KST 2013">Save Program As...</menu_button>
+<file_saved time="Tue Mar 26 13:33:45 KST 2013">E:\asdf</file_saved>
+</file_created>
+<menu_button time="Tue Mar 26 13:33:46 KST 2013">Load Program</menu_button>
+<menu_button time="Tue Mar 26 13:33:50 KST 2013">Load Program</menu_button>
+<menu_button time="Tue Mar 26 13:34:03 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Mar 26 13:34:04 KST 2013">E:\asdf</file_saved>
+</file_created>
+<command_run time="Tue Mar 26 13:34:14 KST 2013">lab4_1()></command_run>
+<menu_button time="Tue Mar 26 13:34:22 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Mar 26 13:34:23 KST 2013">E:\asdf</file_saved>
+</file_created>
+<command_run time="Tue Mar 26 13:34:24 KST 2013">lab4_1()></command_run>
+<menu_button time="Tue Mar 26 13:34:35 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Mar 26 13:34:36 KST 2013">E:\asdf</file_saved>
+<file_opened time="Tue Mar 26 13:40:06 KST 2013">E:\asdf</file_opened>
+<command_run time="Tue Mar 26 13:40:27 KST 2013">getPixel(barb,0,1)></command_run>
+<command_run time="Tue Mar 26 13:40:41 KST 2013">barb='barbara.jpg'></command_run>
+<command_run time="Tue Mar 26 13:40:46 KST 2013">getPixel(barb,0,1)></command_run>
+<command_run time="Tue Mar 26 13:41:14 KST 2013">barb=makePicture(getMediaPath('barbara.jpg'))></command_run>
+<command_run time="Tue Mar 26 13:41:17 KST 2013">getPixel(barb,0,1)></command_run>
+<menu_button time="Tue Mar 26 13:46:17 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Mar 26 13:46:18 KST 2013">E:\asdf</file_saved>
+</file_created>
+<menu_button time="Tue Mar 26 13:47:01 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Mar 26 13:47:02 KST 2013">E:\asdf</file_saved>
+</file_created>
+<command_run time="Tue Mar 26 13:47:09 KST 2013">lab4_1()></command_run>
+<menu_button time="Tue Mar 26 13:47:36 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Mar 26 13:47:37 KST 2013">E:\asdf</file_saved>
+</file_created>
+<command_run time="Tue Mar 26 13:47:41 KST 2013">lab4_1()></command_run>
+<menu_button time="Tue Mar 26 13:49:19 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Mar 26 13:49:20 KST 2013">E:\asdf</file_saved>
+</file_created>

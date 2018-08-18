@@ -1,0 +1,109 @@
+<file_created time="Tue Apr 09 14:39:35 KST 2013">
+<command_run time="Tue Apr 09 14:40:19 KST 2013">setMediaPath("E:/mediasources")></command_run>
+<menu_button time="Tue Apr 09 15:08:27 KST 2013">Save Program As...</menu_button>
+<file_saved time="Tue Apr 09 15:08:30 KST 2013">E:\mediasources\ss.py</file_saved>
+</file_created>
+<menu_button time="Tue Apr 09 15:08:31 KST 2013">Load Program</menu_button>
+<menu_button time="Tue Apr 09 15:08:38 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 09 15:08:39 KST 2013">E:\mediasources\ss.py</file_saved>
+</file_created>
+<menu_button time="Tue Apr 09 15:08:45 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 09 15:08:45 KST 2013">E:\mediasources\ss.py</file_saved>
+</file_created>
+<command_run time="Tue Apr 09 15:08:54 KST 2013">lab6_1()></command_run>
+<command_run time="Tue Apr 09 15:09:01 KST 2013">lab6_2()></command_run>
+<menu_button time="Tue Apr 09 15:09:17 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 09 15:09:17 KST 2013">E:\mediasources\ss.py</file_saved>
+</file_created>
+<command_run time="Tue Apr 09 15:09:21 KST 2013">lab6_2></command_run>
+<command_run time="Tue Apr 09 15:09:27 KST 2013">lab6_2()></command_run>
+<menu_button time="Tue Apr 09 15:12:40 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 09 15:12:41 KST 2013">E:\mediasources\ss.py</file_saved>
+</file_created>
+<command_run time="Tue Apr 09 15:12:45 KST 2013">lab6_2()></command_run>
+<command_run time="Tue Apr 09 15:12:58 KST 2013">lab6_2(s,4)></command_run>
+<command_run time="Tue Apr 09 15:14:24 KST 2013">lab6_2(s,2)></command_run>
+<menu_button time="Tue Apr 09 15:14:45 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 09 15:14:46 KST 2013">E:\mediasources\ss.py</file_saved>
+</file_created>
+<command_run time="Tue Apr 09 15:14:51 KST 2013">lab6_2(2)></command_run>
+<menu_button time="Tue Apr 09 15:17:37 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 09 15:17:39 KST 2013">E:\mediasources\ss.py</file_saved>
+</file_created>
+<command_run time="Tue Apr 09 15:17:41 KST 2013">lab6_2(2)></command_run>
+<menu_button time="Tue Apr 09 15:18:02 KST 2013">Save Program As...</menu_button>
+<file_saved time="Tue Apr 09 15:18:20 KST 2013">E:\p2_201311226_6.py</file_saved>
+</file_created>
+<menu_button time="Tue Apr 09 15:20:39 KST 2013">Save Program As...</menu_button>
+<file_saved time="Tue Apr 09 15:20:41 KST 2013">E:\p2_201311226_6.py</file_saved>
+</file_created>
+<menu_button time="Tue Apr 09 15:20:41 KST 2013">Load Program</menu_button>
+<command_run time="Tue Apr 09 15:20:46 KST 2013">lab6_2()></command_run>
+<command_run time="Tue Apr 09 15:21:16 KST 2013">s=getMediaPath("preamble.wav")></command_run>
+<command_run time="Tue Apr 09 15:21:27 KST 2013">lab6_2(s,2)></command_run>
+<menu_button time="Tue Apr 09 15:21:56 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 09 15:21:58 KST 2013">E:\p2_201311226_6.py</file_saved>
+</file_created>
+<command_run time="Tue Apr 09 15:22:03 KST 2013">lab6_2(s,2)></command_run>
+<menu_button time="Tue Apr 09 15:22:53 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 09 15:22:54 KST 2013">E:\p2_201311226_6.py</file_saved>
+</file_created>
+<command_run time="Tue Apr 09 15:22:59 KST 2013">lab6_2(s,2)></command_run>
+<menu_button time="Tue Apr 09 15:23:09 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 09 15:23:09 KST 2013">E:\p2_201311226_6.py</file_saved>
+</file_created>
+<command_run time="Tue Apr 09 15:23:16 KST 2013">lab6_2(s,2)></command_run>
+<menu_button time="Tue Apr 09 15:23:38 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 09 15:23:38 KST 2013">E:\p2_201311226_6.py</file_saved>
+</file_created>
+<command_run time="Tue Apr 09 15:23:43 KST 2013">lab6_2(s,2)></command_run>
+<menu_button time="Tue Apr 09 15:24:45 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 09 15:24:45 KST 2013">E:\p2_201311226_6.py</file_saved>
+</file_created>
+<command_run time="Tue Apr 09 15:24:51 KST 2013">lab6_2(s,2)></command_run>
+<command_run time="Tue Apr 09 15:25:07 KST 2013">main()></command_run>
+<menu_button time="Tue Apr 09 15:25:20 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 09 15:25:21 KST 2013">E:\p2_201311226_6.py</file_saved>
+</file_created>
+<command_run time="Tue Apr 09 15:25:24 KST 2013">main()></command_run>
+<menu_button time="Tue Apr 09 15:25:43 KST 2013">Load Program</menu_button>
+<file_saved time="Tue Apr 09 15:25:43 KST 2013">E:\p2_201311226_6.py</file_saved>
+<file_opened time="Wed Apr 10 15:47:01 KST 2013">I:\p2_201311226_6.py</file_opened>
+<menu_button time="Wed Apr 10 15:47:07 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 10 15:47:13 KST 2013">I:\p2_201311226_6.py</file_saved>
+</file_created>
+<command_run time="Wed Apr 10 15:48:29 KST 2013">lab6_1()></command_run>
+<command_run time="Wed Apr 10 15:48:34 KST 2013">></command_run>
+<command_run time="Wed Apr 10 15:48:34 KST 2013">></command_run>
+<command_run time="Wed Apr 10 15:48:46 KST 2013">setMediaPath()></command_run>
+<command_run time="Wed Apr 10 15:48:53 KST 2013">lab6_1()></command_run>
+<command_run time="Wed Apr 10 15:49:04 KST 2013">lab6_2(w,v)></command_run>
+<command_run time="Wed Apr 10 15:49:10 KST 2013">lab6_2(w,v)></command_run>
+<menu_button time="Wed Apr 10 15:51:05 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 10 15:51:09 KST 2013">I:\p2_201311226_6.py</file_saved>
+</file_created>
+<command_run time="Wed Apr 10 15:51:17 KST 2013">lab6_2(2)></command_run>
+<menu_button time="Wed Apr 10 15:51:26 KST 2013">Load Program</menu_button>
+<file_saved time="Wed Apr 10 15:51:28 KST 2013">I:\p2_201311226_6.py</file_saved>
+</file_created>
+<command_run time="Wed Apr 10 15:51:29 KST 2013">lab6_2(2)></command_run>
+<menu_button time="Wed Apr 10 15:51:35 KST 2013">Save Program As...</menu_button>
+<file_saved time="Wed Apr 10 15:51:59 KST 2013">J:\programing\p3_201311229_6.py</file_saved>
+</file_created>
+<menu_button time="Wed Apr 10 15:52:01 KST 2013">Save Program</menu_button>
+<file_saved time="Wed Apr 10 15:52:01 KST 2013">J:\programing\p3_201311229_6.py</file_saved>
+<file_opened time="Wed Apr 10 15:57:06 KST 2013">E:\programing\p3_201311229_6.py</file_opened>
+<menu_button time="Wed Apr 10 15:57:12 KST 2013">Save Program</menu_button>
+<file_saved time="Wed Apr 10 15:57:12 KST 2013">E:\programing\p3_201311229_6.py</file_saved>
+<file_opened time="Thu May 09 19:23:58 KST 2013">I:\programing\hw\p3_201311229_6.py</file_opened>
+<menu_button time="Thu May 09 19:24:27 KST 2013">Load Program</menu_button>
+<command_run time="Thu May 09 19:24:32 KST 2013">lab6_2(w)></command_run>
+<command_run time="Thu May 09 19:24:41 KST 2013">main(s,v)></command_run>
+<menu_button time="Thu May 09 19:24:45 KST 2013">Load Program</menu_button>
+<menu_button time="Thu May 09 19:24:51 KST 2013">Load Program</menu_button>
+<file_saved time="Thu May 09 19:24:51 KST 2013">I:\programing\hw\p3_201311229_6.py</file_saved>
+</file_created>
+<command_run time="Thu May 09 19:24:52 KST 2013">lab6_2(w)></command_run>
+<menu_button time="Thu May 09 19:25:14 KST 2013">Load Program</menu_button>
+<file_saved time="Thu May 09 19:25:14 KST 2013">I:\programing\hw\p3_201311229_6.py</file_saved>
+</file_created>
